@@ -1,0 +1,1078 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        
+    </style>
+
+
+</head>
+<body>
+
+
+
+<svg version="1.1"
+     width="1000" height="700"
+     xmlns="http://www.w3.org/2000/svg">
+
+<image href="tree + grid.png"  />
+
+  <circle id="circle1" r="5" cx="450" cy="470" 
+onmouseover="displayText(myNode1[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle1', 1)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle2" r="5" cx="424" cy="450" 
+onmouseover="displayText(myNode2[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle2', 2)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle3" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode3[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle3', 3)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle4" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode4[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle4', 4)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle5" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode5[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle5', 5)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle6" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode6[0])"FF
+onmouseout="displayText(' ')"
+onclick="canClick2('circle6', 6)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle7" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode7[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle7', 7)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle8" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode8[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle8', 8)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+  <circle id="circle9" r="5" cx="390" cy="420" 
+onmouseover="displayText(myNode9[0])"
+onmouseout="displayText(' ')"
+onclick="canClick2('circle9', 9)"
+style="fill: red; stroke: blue; stroke-width: 1"/>
+
+
+  <circle id="circle10"  r="5" cx="390" cy="420" onmouseover="displayText(myNode10[0])"onmouseout="displayText(' ')"onclick="canClick2('circle10', 10)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle11"  r="5" cx="390" cy="420" onmouseover="displayText(myNode11[0])"onmouseout="displayText(' ')"onclick="canClick2('circle11', 11)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle12"  r="5" cx="390" cy="420" onmouseover="displayText(myNode12[0])"onmouseout="displayText(' ')"onclick="canClick2('circle12', 12)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle13"  r="5" cx="390" cy="420" onmouseover="displayText(myNode13[0])"onmouseout="displayText(' ')"onclick="canClick2('circle13', 13)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle14"  r="5" cx="390" cy="420" onmouseover="displayText(myNode14[0])"onmouseout="displayText(' ')"onclick="canClick2('circle14', 14)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle15"  r="5" cx="390" cy="420" onmouseover="displayText(myNode15[0])"onmouseout="displayText(' ')"onclick="canClick2('circle15', 15)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle16"  r="5" cx="390" cy="420" onmouseover="displayText(myNode16[0])"onmouseout="displayText(' ')"onclick="canClick2('circle16', 16)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle17"  r="5" cx="390" cy="420" onmouseover="displayText(myNode17[0])"onmouseout="displayText(' ')"onclick="canClick2('circle17', 17)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle18"  r="5" cx="390" cy="420" onmouseover="displayText(myNode18[0])"onmouseout="displayText(' ')"onclick="canClick2('circle18', 18)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle19"  r="5" cx="390" cy="420" onmouseover="displayText(myNode19[0])"onmouseout="displayText(' ')"onclick="canClick2('circle19', 19)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle20"  r="5" cx="390" cy="420" onmouseover="displayText(myNode20[0])"onmouseout="displayText(' ')"onclick="canClick2('circle20', 20)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle21"  r="5" cx="390" cy="420" onmouseover="displayText(myNode21[0])"onmouseout="displayText(' ')"onclick="canClick2('circle21', 21)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle22"  r="5" cx="390" cy="420" onmouseover="displayText(myNode22[0])"onmouseout="displayText(' ')"onclick="canClick2('circle22', 22)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle23"  r="5" cx="390" cy="420" onmouseover="displayText(myNode23[0])"onmouseout="displayText(' ')"onclick="canClick2('circle23', 23)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle24"  r="5" cx="390" cy="420" onmouseover="displayText(myNode24[0])"onmouseout="displayText(' ')"onclick="canClick2('circle24', 24)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle25"  r="5" cx="390" cy="420" onmouseover="displayText(myNode25[0])"onmouseout="displayText(' ')"onclick="canClick2('circle25', 25)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle26"  r="5" cx="390" cy="420" onmouseover="displayText(myNode26[0])"onmouseout="displayText(' ')"onclick="canClick2('circle26', 26)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle27"  r="5" cx="390" cy="420" onmouseover="displayText(myNode27[0])"onmouseout="displayText(' ')"onclick="canClick2('circle27', 27)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle28"  r="5" cx="390" cy="420" onmouseover="displayText(myNode28[0])"onmouseout="displayText(' ')"onclick="canClick2('circle28', 28)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle29"  r="5" cx="390" cy="420" onmouseover="displayText(myNode29[0])"onmouseout="displayText(' ')"onclick="canClick2('circle29', 29)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle30"  r="5" cx="390" cy="420" onmouseover="displayText(myNode30[0])"onmouseout="displayText(' ')"onclick="canClick2('circle30', 30)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle31"  r="5" cx="390" cy="420" onmouseover="displayText(myNode31[0])"onmouseout="displayText(' ')"onclick="canClick2('circle31', 31)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle32"  r="5" cx="390" cy="420" onmouseover="displayText(myNode32[0])"onmouseout="displayText(' ')"onclick="canClick2('circle32', 32)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle33"  r="5" cx="390" cy="420" onmouseover="displayText(myNode33[0])"onmouseout="displayText(' ')"onclick="canClick2('circle33', 33)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle34"  r="5" cx="390" cy="420" onmouseover="displayText(myNode34[0])"onmouseout="displayText(' ')"onclick="canClick2('circle34', 34)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle35"  r="5" cx="390" cy="420" onmouseover="displayText(myNode35[0])"onmouseout="displayText(' ')"onclick="canClick2('circle35', 35)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle36"  r="5" cx="390" cy="420" onmouseover="displayText(myNode36[0])"onmouseout="displayText(' ')"onclick="canClick2('circle36', 36)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle37"  r="5" cx="390" cy="420" onmouseover="displayText(myNode37[0])"onmouseout="displayText(' ')"onclick="canClick2('circle37', 37)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle38"  r="5" cx="390" cy="420" onmouseover="displayText(myNode38[0])"onmouseout="displayText(' ')"onclick="canClick2('circle38', 38)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle39"  r="5" cx="390" cy="420" onmouseover="displayText(myNode39[0])"onmouseout="displayText(' ')"onclick="canClick2('circle39', 39)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle40"  r="5" cx="390" cy="420" onmouseover="displayText(myNode40[0])"onmouseout="displayText(' ')"onclick="canClick2('circle40', 40)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle41"  r="5" cx="390" cy="420" onmouseover="displayText(myNode41[0])"onmouseout="displayText(' ')"onclick="canClick2('circle41', 41)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle42"  r="5" cx="390" cy="420" onmouseover="displayText(myNode42[0])"onmouseout="displayText(' ')"onclick="canClick2('circle42', 42)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle43"  r="5" cx="390" cy="420" onmouseover="displayText(myNode43[0])"onmouseout="displayText(' ')"onclick="canClick2('circle43', 43)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle44"  r="5" cx="390" cy="420" onmouseover="displayText(myNode44[0])"onmouseout="displayText(' ')"onclick="canClick2('circle44', 44)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle45"  r="5" cx="390" cy="420" onmouseover="displayText(myNode45[0])"onmouseout="displayText(' ')"onclick="canClick2('circle45', 45)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle46"  r="5" cx="390" cy="420" onmouseover="displayText(myNode46[0])"onmouseout="displayText(' ')"onclick="canClick2('circle46', 46)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle47"  r="5" cx="390" cy="420" onmouseover="displayText(myNode47[0])"onmouseout="displayText(' ')"onclick="canClick2('circle47', 47)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle48"  r="5" cx="390" cy="420" onmouseover="displayText(myNode48[0])"onmouseout="displayText(' ')"onclick="canClick2('circle48', 48)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle49"  r="5" cx="390" cy="420" onmouseover="displayText(myNode49[0])"onmouseout="displayText(' ')"onclick="canClick2('circle49', 49)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle50"  r="5" cx="390" cy="420" onmouseover="displayText(myNode50[0])"onmouseout="displayText(' ')"onclick="canClick2('circle50', 50)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle51"  r="5" cx="390" cy="420" onmouseover="displayText(myNode51[0])"onmouseout="displayText(' ')"onclick="canClick2('circle51', 51)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle52"  r="5" cx="390" cy="420" onmouseover="displayText(myNode52[0])"onmouseout="displayText(' ')"onclick="canClick2('circle52', 52)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle53"  r="5" cx="390" cy="420" onmouseover="displayText(myNode53[0])"onmouseout="displayText(' ')"onclick="canClick2('circle53', 53)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle54"  r="5" cx="390" cy="420" onmouseover="displayText(myNode54[0])"onmouseout="displayText(' ')"onclick="canClick2('circle54', 54)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle55"  r="5" cx="390" cy="420" onmouseover="displayText(myNode55[0])"onmouseout="displayText(' ')"onclick="canClick2('circle55', 55)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle56"  r="5" cx="390" cy="420" onmouseover="displayText(myNode56[0])"onmouseout="displayText(' ')"onclick="canClick2('circle56', 56)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle57"  r="5" cx="390" cy="420" onmouseover="displayText(myNode57[0])"onmouseout="displayText(' ')"onclick="canClick2('circle57', 57)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle58"  r="5" cx="390" cy="420" onmouseover="displayText(myNode58[0])"onmouseout="displayText(' ')"onclick="canClick2('circle58', 58)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle59"  r="5" cx="390" cy="420" onmouseover="displayText(myNode59[0])"onmouseout="displayText(' ')"onclick="canClick2('circle59', 59)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle60"  r="5" cx="390" cy="420" onmouseover="displayText(myNode60[0])"onmouseout="displayText(' ')"onclick="canClick2('circle60', 60)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle61"  r="5" cx="390" cy="420" onmouseover="displayText(myNode61[0])"onmouseout="displayText(' ')"onclick="canClick2('circle61', 61)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle62"  r="5" cx="390" cy="420" onmouseover="displayText(myNode62[0])"onmouseout="displayText(' ')"onclick="canClick2('circle62', 62)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle63"  r="5" cx="390" cy="420" onmouseover="displayText(myNode63[0])"onmouseout="displayText(' ')"onclick="canClick2('circle63', 63)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle64"  r="5" cx="390" cy="420" onmouseover="displayText(myNode64[0])"onmouseout="displayText(' ')"onclick="canClick2('circle64', 64)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle65"  r="5" cx="390" cy="420" onmouseover="displayText(myNode65[0])"onmouseout="displayText(' ')"onclick="canClick2('circle65', 65)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle66"  r="5" cx="390" cy="420" onmouseover="displayText(myNode66[0])"onmouseout="displayText(' ')"onclick="canClick2('circle66', 66)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle67"  r="5" cx="390" cy="420" onmouseover="displayText(myNode67[0])"onmouseout="displayText(' ')"onclick="canClick2('circle67', 67)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle68"  r="5" cx="390" cy="420" onmouseover="displayText(myNode68[0])"onmouseout="displayText(' ')"onclick="canClick2('circle68', 68)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle69"  r="5" cx="390" cy="420" onmouseover="displayText(myNode69[0])"onmouseout="displayText(' ')"onclick="canClick2('circle69', 69)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle70"  r="5" cx="390" cy="420" onmouseover="displayText(myNode70[0])"onmouseout="displayText(' ')"onclick="canClick2('circle70', 70)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle71"  r="5" cx="390" cy="420" onmouseover="displayText(myNode71[0])"onmouseout="displayText(' ')"onclick="canClick2('circle71', 71)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle72"  r="5" cx="390" cy="420" onmouseover="displayText(myNode72[0])"onmouseout="displayText(' ')"onclick="canClick2('circle72', 72)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle73"  r="5" cx="390" cy="420" onmouseover="displayText(myNode73[0])"onmouseout="displayText(' ')"onclick="canClick2('circle73', 73)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle74"  r="5" cx="390" cy="420" onmouseover="displayText(myNode74[0])"onmouseout="displayText(' ')"onclick="canClick2('circle74', 74)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle75"  r="5" cx="390" cy="420" onmouseover="displayText(myNode75[0])"onmouseout="displayText(' ')"onclick="canClick2('circle75', 75)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle76"  r="5" cx="390" cy="420" onmouseover="displayText(myNode76[0])"onmouseout="displayText(' ')"onclick="canClick2('circle76', 76)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle77"  r="5" cx="390" cy="420" onmouseover="displayText(myNode77[0])"onmouseout="displayText(' ')"onclick="canClick2('circle77', 77)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle78"  r="5" cx="390" cy="420" onmouseover="displayText(myNode78[0])"onmouseout="displayText(' ')"onclick="canClick2('circle78', 78)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle79"  r="5" cx="390" cy="420" onmouseover="displayText(myNode79[0])"onmouseout="displayText(' ')"onclick="canClick2('circle79', 79)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle80"  r="5" cx="390" cy="420" onmouseover="displayText(myNode80[0])"onmouseout="displayText(' ')"onclick="canClick2('circle80', 80)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle81"  r="5" cx="390" cy="420" onmouseover="displayText(myNode81[0])"onmouseout="displayText(' ')"onclick="canClick2('circle81', 81)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle82"  r="5" cx="390" cy="420" onmouseover="displayText(myNode82[0])"onmouseout="displayText(' ')"onclick="canClick2('circle82', 82)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle83"  r="5" cx="390" cy="420" onmouseover="displayText(myNode83[0])"onmouseout="displayText(' ')"onclick="canClick2('circle83', 83)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle84"  r="5" cx="390" cy="420" onmouseover="displayText(myNode84[0])"onmouseout="displayText(' ')"onclick="canClick2('circle84', 84)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle85"  r="5" cx="390" cy="420" onmouseover="displayText(myNode85[0])"onmouseout="displayText(' ')"onclick="canClick2('circle85', 85)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle86"  r="5" cx="390" cy="420" onmouseover="displayText(myNode86[0])"onmouseout="displayText(' ')"onclick="canClick2('circle86', 86)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle87"  r="5" cx="390" cy="420" onmouseover="displayText(myNode87[0])"onmouseout="displayText(' ')"onclick="canClick2('circle87', 87)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle88"  r="5" cx="390" cy="420" onmouseover="displayText(myNode88[0])"onmouseout="displayText(' ')"onclick="canClick2('circle88', 88)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle89"  r="5" cx="390" cy="420" onmouseover="displayText(myNode89[0])"onmouseout="displayText(' ')"onclick="canClick2('circle89', 89)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle90"  r="5" cx="390" cy="420" onmouseover="displayText(myNode90[0])"onmouseout="displayText(' ')"onclick="canClick2('circle90', 90)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle91"  r="5" cx="390" cy="420" onmouseover="displayText(myNode91[0])"onmouseout="displayText(' ')"onclick="canClick2('circle91', 91)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle92"  r="5" cx="390" cy="420" onmouseover="displayText(myNode92[0])"onmouseout="displayText(' ')"onclick="canClick2('circle92', 92)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle93"  r="5" cx="390" cy="420" onmouseover="displayText(myNode93[0])"onmouseout="displayText(' ')"onclick="canClick2('circle93', 93)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle94"  r="5" cx="390" cy="420" onmouseover="displayText(myNode94[0])"onmouseout="displayText(' ')"onclick="canClick2('circle94', 94)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle95"  r="5" cx="390" cy="420" onmouseover="displayText(myNode95[0])"onmouseout="displayText(' ')"onclick="canClick2('circle95', 95)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle96"  r="5" cx="390" cy="420" onmouseover="displayText(myNode96[0])"onmouseout="displayText(' ')"onclick="canClick2('circle96', 96)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle97"  r="5" cx="390" cy="420" onmouseover="displayText(myNode97[0])"onmouseout="displayText(' ')"onclick="canClick2('circle97', 97)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle98"  r="5" cx="390" cy="420" onmouseover="displayText(myNode98[0])"onmouseout="displayText(' ')"onclick="canClick2('circle98', 98)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle99"  r="5" cx="390" cy="420" onmouseover="displayText(myNode99[0])"onmouseout="displayText(' ')"onclick="canClick2('circle99', 99)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle100"  r="5" cx="390" cy="420" onmouseover="displayText(myNode100[0])"onmouseout="displayText(' ')"onclick="canClick2('circle100', 100)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle101"  r="5" cx="390" cy="420" onmouseover="displayText(myNode101[0])"onmouseout="displayText(' ')"onclick="canClick2('circle101', 101)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle102"  r="5" cx="390" cy="420" onmouseover="displayText(myNode102[0])"onmouseout="displayText(' ')"onclick="canClick2('circle102', 102)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle103"  r="5" cx="390" cy="420" onmouseover="displayText(myNode103[0])"onmouseout="displayText(' ')"onclick="canClick2('circle103', 103)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle104"  r="5" cx="390" cy="420" onmouseover="displayText(myNode104[0])"onmouseout="displayText(' ')"onclick="canClick2('circle104', 104)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle105"  r="5" cx="390" cy="420" onmouseover="displayText(myNode105[0])"onmouseout="displayText(' ')"onclick="canClick2('circle105', 105)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle106"  r="5" cx="390" cy="420" onmouseover="displayText(myNode106[0])"onmouseout="displayText(' ')"onclick="canClick2('circle106', 106)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle107"  r="5" cx="390" cy="420" onmouseover="displayText(myNode107[0])"onmouseout="displayText(' ')"onclick="canClick2('circle107', 107)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle108"  r="5" cx="390" cy="420" onmouseover="displayText(myNode108[0])"onmouseout="displayText(' ')"onclick="canClick2('circle108', 108)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle109"  r="5" cx="390" cy="420" onmouseover="displayText(myNode109[0])"onmouseout="displayText(' ')"onclick="canClick2('circle109', 109)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle110"  r="5" cx="390" cy="420" onmouseover="displayText(myNode110[0])"onmouseout="displayText(' ')"onclick="canClick2('circle110', 110)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle111"  r="5" cx="390" cy="420" onmouseover="displayText(myNode111[0])"onmouseout="displayText(' ')"onclick="canClick2('circle111', 111)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle112"  r="5" cx="390" cy="420" onmouseover="displayText(myNode112[0])"onmouseout="displayText(' ')"onclick="canClick2('circle112', 112)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle113"  r="5" cx="390" cy="420" onmouseover="displayText(myNode113[0])"onmouseout="displayText(' ')"onclick="canClick2('circle113', 113)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle114"  r="5" cx="390" cy="420" onmouseover="displayText(myNode114[0])"onmouseout="displayText(' ')"onclick="canClick2('circle114', 114)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle115"  r="5" cx="390" cy="420" onmouseover="displayText(myNode115[0])"onmouseout="displayText(' ')"onclick="canClick2('circle115', 115)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle116"  r="5" cx="390" cy="420" onmouseover="displayText(myNode116[0])"onmouseout="displayText(' ')"onclick="canClick2('circle116', 116)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle117"  r="5" cx="390" cy="420" onmouseover="displayText(myNode117[0])"onmouseout="displayText(' ')"onclick="canClick2('circle117', 117)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle118"  r="5" cx="390" cy="420" onmouseover="displayText(myNode118[0])"onmouseout="displayText(' ')"onclick="canClick2('circle118', 118)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle119"  r="5" cx="390" cy="420" onmouseover="displayText(myNode119[0])"onmouseout="displayText(' ')"onclick="canClick2('circle119', 119)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle120"  r="5" cx="390" cy="420" onmouseover="displayText(myNode120[0])"onmouseout="displayText(' ')"onclick="canClick2('circle120', 120)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle121"  r="5" cx="390" cy="420" onmouseover="displayText(myNode121[0])"onmouseout="displayText(' ')"onclick="canClick2('circle121', 121)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle122"  r="5" cx="390" cy="420" onmouseover="displayText(myNode122[0])"onmouseout="displayText(' ')"onclick="canClick2('circle122', 122)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle123"  r="5" cx="390" cy="420" onmouseover="displayText(myNode123[0])"onmouseout="displayText(' ')"onclick="canClick2('circle123', 123)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle124"  r="5" cx="390" cy="420" onmouseover="displayText(myNode124[0])"onmouseout="displayText(' ')"onclick="canClick2('circle124', 124)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle125"  r="5" cx="390" cy="420" onmouseover="displayText(myNode125[0])"onmouseout="displayText(' ')"onclick="canClick2('circle125', 125)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle126"  r="5" cx="390" cy="420" onmouseover="displayText(myNode126[0])"onmouseout="displayText(' ')"onclick="canClick2('circle126', 126)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle127"  r="5" cx="390" cy="420" onmouseover="displayText(myNode127[0])"onmouseout="displayText(' ')"onclick="canClick2('circle127', 127)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle128"  r="5" cx="390" cy="420" onmouseover="displayText(myNode128[0])"onmouseout="displayText(' ')"onclick="canClick2('circle128', 128)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle129"  r="5" cx="390" cy="420" onmouseover="displayText(myNode129[0])"onmouseout="displayText(' ')"onclick="canClick2('circle129', 129)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle130"  r="5" cx="390" cy="420" onmouseover="displayText(myNode130[0])"onmouseout="displayText(' ')"onclick="canClick2('circle130', 130)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle131"  r="5" cx="390" cy="420" onmouseover="displayText(myNode131[0])"onmouseout="displayText(' ')"onclick="canClick2('circle131', 131)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle132"  r="5" cx="390" cy="420" onmouseover="displayText(myNode132[0])"onmouseout="displayText(' ')"onclick="canClick2('circle132', 132)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle133"  r="5" cx="390" cy="420" onmouseover="displayText(myNode133[0])"onmouseout="displayText(' ')"onclick="canClick2('circle133', 133)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle134"  r="5" cx="390" cy="420" onmouseover="displayText(myNode134[0])"onmouseout="displayText(' ')"onclick="canClick2('circle134', 134)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle135"  r="5" cx="390" cy="420" onmouseover="displayText(myNode135[0])"onmouseout="displayText(' ')"onclick="canClick2('circle135', 135)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle136"  r="5" cx="390" cy="420" onmouseover="displayText(myNode136[0])"onmouseout="displayText(' ')"onclick="canClick2('circle136', 136)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle137"  r="5" cx="390" cy="420" onmouseover="displayText(myNode137[0])"onmouseout="displayText(' ')"onclick="canClick2('circle137', 137)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle138"  r="5" cx="390" cy="420" onmouseover="displayText(myNode138[0])"onmouseout="displayText(' ')"onclick="canClick2('circle138', 138)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle139"  r="5" cx="390" cy="420" onmouseover="displayText(myNode139[0])"onmouseout="displayText(' ')"onclick="canClick2('circle139', 139)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle140"  r="5" cx="390" cy="420" onmouseover="displayText(myNode140[0])"onmouseout="displayText(' ')"onclick="canClick2('circle140', 140)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle141"  r="5" cx="390" cy="420" onmouseover="displayText(myNode141[0])"onmouseout="displayText(' ')"onclick="canClick2('circle141', 141)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle142"  r="5" cx="390" cy="420" onmouseover="displayText(myNode142[0])"onmouseout="displayText(' ')"onclick="canClick2('circle142', 142)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle143"  r="5" cx="390" cy="420" onmouseover="displayText(myNode143[0])"onmouseout="displayText(' ')"onclick="canClick2('circle143', 143)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle144"  r="5" cx="390" cy="420" onmouseover="displayText(myNode144[0])"onmouseout="displayText(' ')"onclick="canClick2('circle144', 144)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle145"  r="5" cx="390" cy="420" onmouseover="displayText(myNode145[0])"onmouseout="displayText(' ')"onclick="canClick2('circle145', 145)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle146"  r="5" cx="390" cy="420" onmouseover="displayText(myNode146[0])"onmouseout="displayText(' ')"onclick="canClick2('circle146', 146)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle147"  r="5" cx="390" cy="420" onmouseover="displayText(myNode147[0])"onmouseout="displayText(' ')"onclick="canClick2('circle147', 147)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle148"  r="5" cx="390" cy="420" onmouseover="displayText(myNode148[0])"onmouseout="displayText(' ')"onclick="canClick2('circle148', 148)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle149"  r="5" cx="390" cy="420" onmouseover="displayText(myNode149[0])"onmouseout="displayText(' ')"onclick="canClick2('circle149', 149)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle150"  r="5" cx="390" cy="420" onmouseover="displayText(myNode150[0])"onmouseout="displayText(' ')"onclick="canClick2('circle150', 150)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle151"  r="5" cx="390" cy="420" onmouseover="displayText(myNode151[0])"onmouseout="displayText(' ')"onclick="canClick2('circle151', 151)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle152"  r="5" cx="390" cy="420" onmouseover="displayText(myNode152[0])"onmouseout="displayText(' ')"onclick="canClick2('circle152', 152)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle153"  r="5" cx="390" cy="420" onmouseover="displayText(myNode153[0])"onmouseout="displayText(' ')"onclick="canClick2('circle153', 153)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle154"  r="5" cx="390" cy="420" onmouseover="displayText(myNode154[0])"onmouseout="displayText(' ')"onclick="canClick2('circle154', 154)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle155"  r="5" cx="390" cy="420" onmouseover="displayText(myNode155[0])"onmouseout="displayText(' ')"onclick="canClick2('circle155', 155)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle156"  r="5" cx="390" cy="420" onmouseover="displayText(myNode156[0])"onmouseout="displayText(' ')"onclick="canClick2('circle156', 156)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle157"  r="5" cx="390" cy="420" onmouseover="displayText(myNode157[0])"onmouseout="displayText(' ')"onclick="canClick2('circle157', 157)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle158"  r="5" cx="390" cy="420" onmouseover="displayText(myNode158[0])"onmouseout="displayText(' ')"onclick="canClick2('circle158', 158)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle159"  r="5" cx="390" cy="420" onmouseover="displayText(myNode159[0])"onmouseout="displayText(' ')"onclick="canClick2('circle159', 159)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle160"  r="5" cx="390" cy="420" onmouseover="displayText(myNode160[0])"onmouseout="displayText(' ')"onclick="canClick2('circle160', 160)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle161"  r="5" cx="390" cy="420" onmouseover="displayText(myNode161[0])"onmouseout="displayText(' ')"onclick="canClick2('circle161', 161)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle162"  r="5" cx="390" cy="420" onmouseover="displayText(myNode162[0])"onmouseout="displayText(' ')"onclick="canClick2('circle162', 162)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle163"  r="5" cx="390" cy="420" onmouseover="displayText(myNode163[0])"onmouseout="displayText(' ')"onclick="canClick2('circle163', 163)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle164"  r="5" cx="390" cy="420" onmouseover="displayText(myNode164[0])"onmouseout="displayText(' ')"onclick="canClick2('circle164', 164)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle165"  r="5" cx="390" cy="420" onmouseover="displayText(myNode165[0])"onmouseout="displayText(' ')"onclick="canClick2('circle165', 165)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle166"  r="5" cx="390" cy="420" onmouseover="displayText(myNode166[0])"onmouseout="displayText(' ')"onclick="canClick2('circle166', 166)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle167"  r="5" cx="390" cy="420" onmouseover="displayText(myNode167[0])"onmouseout="displayText(' ')"onclick="canClick2('circle167', 167)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle168"  r="5" cx="390" cy="420" onmouseover="displayText(myNode168[0])"onmouseout="displayText(' ')"onclick="canClick2('circle168', 168)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle169"  r="5" cx="390" cy="420" onmouseover="displayText(myNode169[0])"onmouseout="displayText(' ')"onclick="canClick2('circle169', 169)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle170"  r="5" cx="390" cy="420" onmouseover="displayText(myNode170[0])"onmouseout="displayText(' ')"onclick="canClick2('circle170', 170)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle171"  r="5" cx="390" cy="420" onmouseover="displayText(myNode171[0])"onmouseout="displayText(' ')"onclick="canClick2('circle171', 171)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle172"  r="5" cx="390" cy="420" onmouseover="displayText(myNode172[0])"onmouseout="displayText(' ')"onclick="canClick2('circle172', 172)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle173"  r="5" cx="390" cy="420" onmouseover="displayText(myNode173[0])"onmouseout="displayText(' ')"onclick="canClick2('circle173', 173)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle174"  r="5" cx="390" cy="420" onmouseover="displayText(myNode174[0])"onmouseout="displayText(' ')"onclick="canClick2('circle174', 174)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle175"  r="5" cx="390" cy="420" onmouseover="displayText(myNode175[0])"onmouseout="displayText(' ')"onclick="canClick2('circle175', 175)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle176"  r="5" cx="390" cy="420" onmouseover="displayText(myNode176[0])"onmouseout="displayText(' ')"onclick="canClick2('circle176', 176)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle177"  r="5" cx="390" cy="420" onmouseover="displayText(myNode177[0])"onmouseout="displayText(' ')"onclick="canClick2('circle177', 177)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle178"  r="5" cx="390" cy="420" onmouseover="displayText(myNode178[0])"onmouseout="displayText(' ')"onclick="canClick2('circle178', 178)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle179"  r="5" cx="390" cy="420" onmouseover="displayText(myNode179[0])"onmouseout="displayText(' ')"onclick="canClick2('circle179', 179)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle180"  r="5" cx="390" cy="420" onmouseover="displayText(myNode180[0])"onmouseout="displayText(' ')"onclick="canClick2('circle180', 180)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle181"  r="5" cx="390" cy="420" onmouseover="displayText(myNode181[0])"onmouseout="displayText(' ')"onclick="canClick2('circle181', 181)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle182"  r="5" cx="390" cy="420" onmouseover="displayText(myNode182[0])"onmouseout="displayText(' ')"onclick="canClick2('circle182', 182)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle183"  r="5" cx="390" cy="420" onmouseover="displayText(myNode183[0])"onmouseout="displayText(' ')"onclick="canClick2('circle183', 183)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle184"  r="5" cx="390" cy="420" onmouseover="displayText(myNode184[0])"onmouseout="displayText(' ')"onclick="canClick2('circle184', 184)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle185"  r="5" cx="390" cy="420" onmouseover="displayText(myNode185[0])"onmouseout="displayText(' ')"onclick="canClick2('circle185', 185)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle186"  r="5" cx="390" cy="420" onmouseover="displayText(myNode186[0])"onmouseout="displayText(' ')"onclick="canClick2('circle186', 186)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle187"  r="5" cx="390" cy="420" onmouseover="displayText(myNode187[0])"onmouseout="displayText(' ')"onclick="canClick2('circle187', 187)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle188"  r="5" cx="390" cy="420" onmouseover="displayText(myNode188[0])"onmouseout="displayText(' ')"onclick="canClick2('circle188', 188)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle189"  r="5" cx="390" cy="420" onmouseover="displayText(myNode189[0])"onmouseout="displayText(' ')"onclick="canClick2('circle189', 189)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle190"  r="5" cx="390" cy="420" onmouseover="displayText(myNode190[0])"onmouseout="displayText(' ')"onclick="canClick2('circle190', 190)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle191"  r="5" cx="390" cy="420" onmouseover="displayText(myNode191[0])"onmouseout="displayText(' ')"onclick="canClick2('circle191', 191)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle192"  r="5" cx="390" cy="420" onmouseover="displayText(myNode192[0])"onmouseout="displayText(' ')"onclick="canClick2('circle192', 192)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle193"  r="5" cx="390" cy="420" onmouseover="displayText(myNode193[0])"onmouseout="displayText(' ')"onclick="canClick2('circle193', 193)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle194"  r="5" cx="390" cy="420" onmouseover="displayText(myNode194[0])"onmouseout="displayText(' ')"onclick="canClick2('circle194', 194)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle195"  r="5" cx="390" cy="420" onmouseover="displayText(myNode195[0])"onmouseout="displayText(' ')"onclick="canClick2('circle195', 195)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle196"  r="5" cx="390" cy="420" onmouseover="displayText(myNode196[0])"onmouseout="displayText(' ')"onclick="canClick2('circle196', 196)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle197"  r="5" cx="390" cy="420" onmouseover="displayText(myNode197[0])"onmouseout="displayText(' ')"onclick="canClick2('circle197', 197)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle198"  r="5" cx="390" cy="420" onmouseover="displayText(myNode198[0])"onmouseout="displayText(' ')"onclick="canClick2('circle198', 198)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle199"  r="5" cx="390" cy="420" onmouseover="displayText(myNode199[0])"onmouseout="displayText(' ')"onclick="canClick2('circle199', 199)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle200"  r="5" cx="390" cy="420" onmouseover="displayText(myNode200[0])"onmouseout="displayText(' ')"onclick="canClick2('circle200', 200)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle201"  r="5" cx="390" cy="420" onmouseover="displayText(myNode201[0])"onmouseout="displayText(' ')"onclick="canClick2('circle201', 201)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle202"  r="5" cx="390" cy="420" onmouseover="displayText(myNode202[0])"onmouseout="displayText(' ')"onclick="canClick2('circle202', 202)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle203"  r="5" cx="390" cy="420" onmouseover="displayText(myNode203[0])"onmouseout="displayText(' ')"onclick="canClick2('circle203', 203)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle204"  r="5" cx="390" cy="420" onmouseover="displayText(myNode204[0])"onmouseout="displayText(' ')"onclick="canClick2('circle204', 204)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle205"  r="5" cx="390" cy="420" onmouseover="displayText(myNode205[0])"onmouseout="displayText(' ')"onclick="canClick2('circle205', 205)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle206"  r="5" cx="390" cy="420" onmouseover="displayText(myNode206[0])"onmouseout="displayText(' ')"onclick="canClick2('circle206', 206)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle207"  r="5" cx="390" cy="420" onmouseover="displayText(myNode207[0])"onmouseout="displayText(' ')"onclick="canClick2('circle207', 207)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle208"  r="5" cx="390" cy="420" onmouseover="displayText(myNode208[0])"onmouseout="displayText(' ')"onclick="canClick2('circle208', 208)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle209"  r="5" cx="390" cy="420" onmouseover="displayText(myNode209[0])"onmouseout="displayText(' ')"onclick="canClick2('circle209', 209)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle210"  r="5" cx="390" cy="420" onmouseover="displayText(myNode210[0])"onmouseout="displayText(' ')"onclick="canClick2('circle210', 210)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle211"  r="5" cx="390" cy="420" onmouseover="displayText(myNode211[0])"onmouseout="displayText(' ')"onclick="canClick2('circle211', 211)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle212"  r="5" cx="390" cy="420" onmouseover="displayText(myNode212[0])"onmouseout="displayText(' ')"onclick="canClick2('circle212', 212)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle213"  r="5" cx="390" cy="420" onmouseover="displayText(myNode213[0])"onmouseout="displayText(' ')"onclick="canClick2('circle213', 213)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle214"  r="5" cx="390" cy="420" onmouseover="displayText(myNode214[0])"onmouseout="displayText(' ')"onclick="canClick2('circle214', 214)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle215"  r="5" cx="390" cy="420" onmouseover="displayText(myNode215[0])"onmouseout="displayText(' ')"onclick="canClick2('circle215', 215)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle216"  r="5" cx="390" cy="420" onmouseover="displayText(myNode216[0])"onmouseout="displayText(' ')"onclick="canClick2('circle216', 216)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle217"  r="5" cx="390" cy="420" onmouseover="displayText(myNode217[0])"onmouseout="displayText(' ')"onclick="canClick2('circle217', 217)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle218"  r="5" cx="390" cy="420" onmouseover="displayText(myNode218[0])"onmouseout="displayText(' ')"onclick="canClick2('circle218', 218)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle219"  r="5" cx="390" cy="420" onmouseover="displayText(myNode219[0])"onmouseout="displayText(' ')"onclick="canClick2('circle219', 219)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle220"  r="5" cx="390" cy="420" onmouseover="displayText(myNode220[0])"onmouseout="displayText(' ')"onclick="canClick2('circle220', 220)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle221"  r="5" cx="390" cy="420" onmouseover="displayText(myNode221[0])"onmouseout="displayText(' ')"onclick="canClick2('circle221', 221)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle222"  r="5" cx="390" cy="420" onmouseover="displayText(myNode222[0])"onmouseout="displayText(' ')"onclick="canClick2('circle222', 222)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle223"  r="5" cx="390" cy="420" onmouseover="displayText(myNode223[0])"onmouseout="displayText(' ')"onclick="canClick2('circle223', 223)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle224"  r="5" cx="390" cy="420" onmouseover="displayText(myNode224[0])"onmouseout="displayText(' ')"onclick="canClick2('circle224', 224)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle225"  r="5" cx="390" cy="420" onmouseover="displayText(myNode225[0])"onmouseout="displayText(' ')"onclick="canClick2('circle225', 225)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle226"  r="5" cx="390" cy="420" onmouseover="displayText(myNode226[0])"onmouseout="displayText(' ')"onclick="canClick2('circle226', 226)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle227"  r="5" cx="390" cy="420" onmouseover="displayText(myNode227[0])"onmouseout="displayText(' ')"onclick="canClick2('circle227', 227)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle228"  r="5" cx="390" cy="420" onmouseover="displayText(myNode228[0])"onmouseout="displayText(' ')"onclick="canClick2('circle228', 228)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle229"  r="5" cx="390" cy="420" onmouseover="displayText(myNode229[0])"onmouseout="displayText(' ')"onclick="canClick2('circle229', 229)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle230"  r="5" cx="390" cy="420" onmouseover="displayText(myNode230[0])"onmouseout="displayText(' ')"onclick="canClick2('circle230', 230)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle231"  r="5" cx="390" cy="420" onmouseover="displayText(myNode231[0])"onmouseout="displayText(' ')"onclick="canClick2('circle231', 231)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle232"  r="5" cx="390" cy="420" onmouseover="displayText(myNode232[0])"onmouseout="displayText(' ')"onclick="canClick2('circle232', 232)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle233"  r="5" cx="390" cy="420" onmouseover="displayText(myNode233[0])"onmouseout="displayText(' ')"onclick="canClick2('circle233', 233)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle234"  r="5" cx="390" cy="420" onmouseover="displayText(myNode234[0])"onmouseout="displayText(' ')"onclick="canClick2('circle234', 234)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle235"  r="5" cx="390" cy="420" onmouseover="displayText(myNode235[0])"onmouseout="displayText(' ')"onclick="canClick2('circle235', 235)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle236"  r="5" cx="390" cy="420" onmouseover="displayText(myNode236[0])"onmouseout="displayText(' ')"onclick="canClick2('circle236', 236)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle237"  r="5" cx="390" cy="420" onmouseover="displayText(myNode237[0])"onmouseout="displayText(' ')"onclick="canClick2('circle237', 237)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle238"  r="5" cx="390" cy="420" onmouseover="displayText(myNode238[0])"onmouseout="displayText(' ')"onclick="canClick2('circle238', 238)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle239"  r="5" cx="390" cy="420" onmouseover="displayText(myNode239[0])"onmouseout="displayText(' ')"onclick="canClick2('circle239', 239)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle240"  r="5" cx="390" cy="420" onmouseover="displayText(myNode240[0])"onmouseout="displayText(' ')"onclick="canClick2('circle240', 240)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle241"  r="5" cx="390" cy="420" onmouseover="displayText(myNode241[0])"onmouseout="displayText(' ')"onclick="canClick2('circle241', 241)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle242"  r="5" cx="390" cy="420" onmouseover="displayText(myNode242[0])"onmouseout="displayText(' ')"onclick="canClick2('circle242', 242)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle243"  r="5" cx="390" cy="420" onmouseover="displayText(myNode243[0])"onmouseout="displayText(' ')"onclick="canClick2('circle243', 243)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle244"  r="5" cx="390" cy="420" onmouseover="displayText(myNode244[0])"onmouseout="displayText(' ')"onclick="canClick2('circle244', 244)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle245"  r="5" cx="390" cy="420" onmouseover="displayText(myNode245[0])"onmouseout="displayText(' ')"onclick="canClick2('circle245', 245)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle246"  r="5" cx="390" cy="420" onmouseover="displayText(myNode246[0])"onmouseout="displayText(' ')"onclick="canClick2('circle246', 246)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle247"  r="5" cx="390" cy="420" onmouseover="displayText(myNode247[0])"onmouseout="displayText(' ')"onclick="canClick2('circle247', 247)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle248"  r="5" cx="390" cy="420" onmouseover="displayText(myNode248[0])"onmouseout="displayText(' ')"onclick="canClick2('circle248', 248)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle249"  r="5" cx="390" cy="420" onmouseover="displayText(myNode249[0])"onmouseout="displayText(' ')"onclick="canClick2('circle249', 249)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle250"  r="5" cx="390" cy="420" onmouseover="displayText(myNode250[0])"onmouseout="displayText(' ')"onclick="canClick2('circle250', 250)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle251"  r="5" cx="390" cy="420" onmouseover="displayText(myNode251[0])"onmouseout="displayText(' ')"onclick="canClick2('circle251', 251)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle252"  r="5" cx="390" cy="420" onmouseover="displayText(myNode252[0])"onmouseout="displayText(' ')"onclick="canClick2('circle252', 252)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle253"  r="5" cx="390" cy="420" onmouseover="displayText(myNode253[0])"onmouseout="displayText(' ')"onclick="canClick2('circle253', 253)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle254"  r="5" cx="390" cy="420" onmouseover="displayText(myNode254[0])"onmouseout="displayText(' ')"onclick="canClick2('circle254', 254)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle255"  r="5" cx="390" cy="420" onmouseover="displayText(myNode255[0])"onmouseout="displayText(' ')"onclick="canClick2('circle255', 255)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle256"  r="5" cx="390" cy="420" onmouseover="displayText(myNode256[0])"onmouseout="displayText(' ')"onclick="canClick2('circle256', 256)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle257"  r="5" cx="390" cy="420" onmouseover="displayText(myNode257[0])"onmouseout="displayText(' ')"onclick="canClick2('circle257', 257)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle258"  r="5" cx="390" cy="420" onmouseover="displayText(myNode258[0])"onmouseout="displayText(' ')"onclick="canClick2('circle258', 258)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle259"  r="5" cx="390" cy="420" onmouseover="displayText(myNode259[0])"onmouseout="displayText(' ')"onclick="canClick2('circle259', 259)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle260"  r="5" cx="390" cy="420" onmouseover="displayText(myNode260[0])"onmouseout="displayText(' ')"onclick="canClick2('circle260', 260)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle261"  r="5" cx="390" cy="420" onmouseover="displayText(myNode261[0])"onmouseout="displayText(' ')"onclick="canClick2('circle261', 261)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle262"  r="5" cx="390" cy="420" onmouseover="displayText(myNode262[0])"onmouseout="displayText(' ')"onclick="canClick2('circle262', 262)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle263"  r="5" cx="390" cy="420" onmouseover="displayText(myNode263[0])"onmouseout="displayText(' ')"onclick="canClick2('circle263', 263)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle264"  r="5" cx="390" cy="420" onmouseover="displayText(myNode264[0])"onmouseout="displayText(' ')"onclick="canClick2('circle264', 264)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle265"  r="5" cx="390" cy="420" onmouseover="displayText(myNode265[0])"onmouseout="displayText(' ')"onclick="canClick2('circle265', 265)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle266"  r="5" cx="390" cy="420" onmouseover="displayText(myNode266[0])"onmouseout="displayText(' ')"onclick="canClick2('circle266', 266)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle267"  r="5" cx="390" cy="420" onmouseover="displayText(myNode267[0])"onmouseout="displayText(' ')"onclick="canClick2('circle267', 267)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle268"  r="5" cx="390" cy="420" onmouseover="displayText(myNode268[0])"onmouseout="displayText(' ')"onclick="canClick2('circle268', 268)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle269"  r="5" cx="390" cy="420" onmouseover="displayText(myNode269[0])"onmouseout="displayText(' ')"onclick="canClick2('circle269', 269)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle270"  r="5" cx="390" cy="420" onmouseover="displayText(myNode270[0])"onmouseout="displayText(' ')"onclick="canClick2('circle270', 270)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle271"  r="5" cx="390" cy="420" onmouseover="displayText(myNode271[0])"onmouseout="displayText(' ')"onclick="canClick2('circle271', 271)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle272"  r="5" cx="390" cy="420" onmouseover="displayText(myNode272[0])"onmouseout="displayText(' ')"onclick="canClick2('circle272', 272)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle273"  r="5" cx="390" cy="420" onmouseover="displayText(myNode273[0])"onmouseout="displayText(' ')"onclick="canClick2('circle273', 273)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle274"  r="5" cx="390" cy="420" onmouseover="displayText(myNode274[0])"onmouseout="displayText(' ')"onclick="canClick2('circle274', 274)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle275"  r="5" cx="390" cy="420" onmouseover="displayText(myNode275[0])"onmouseout="displayText(' ')"onclick="canClick2('circle275', 275)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle276"  r="5" cx="390" cy="420" onmouseover="displayText(myNode276[0])"onmouseout="displayText(' ')"onclick="canClick2('circle276', 276)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle277"  r="5" cx="390" cy="420" onmouseover="displayText(myNode277[0])"onmouseout="displayText(' ')"onclick="canClick2('circle277', 277)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle278"  r="5" cx="390" cy="420" onmouseover="displayText(myNode278[0])"onmouseout="displayText(' ')"onclick="canClick2('circle278', 278)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle279"  r="5" cx="390" cy="420" onmouseover="displayText(myNode279[0])"onmouseout="displayText(' ')"onclick="canClick2('circle279', 279)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle280"  r="5" cx="390" cy="420" onmouseover="displayText(myNode280[0])"onmouseout="displayText(' ')"onclick="canClick2('circle280', 280)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle281"  r="5" cx="390" cy="420" onmouseover="displayText(myNode281[0])"onmouseout="displayText(' ')"onclick="canClick2('circle281', 281)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle282"  r="5" cx="390" cy="420" onmouseover="displayText(myNode282[0])"onmouseout="displayText(' ')"onclick="canClick2('circle282', 282)"style="fill: red; stroke: blue; stroke-width: 1"/>
+  <circle id="circle283"  r="5" cx="390" cy="420" onmouseover="displayText(myNode283[0])"onmouseout="displayText(' ')"onclick="canClick2('circle283', 283)"style="fill: red; stroke: blue; stroke-width: 1"/>
+
+
+
+
+<foreignobject id="foreign3" x="704" y="500" width="200" height="200">
+<body xmlns="http://www.w3.org/1999/xhtml">
+                <div> Falta incluir requisitos para retirar skills</div>
+                <br />
+                <div>This is <u>WORK IN PROGESS</u> uff</div>
+                <br />
+                <div>This is <b>HARD</b> uff</div>
+                <br />
+                <div>This is <i>last step</i> one</div>
+            </body>
+        </foreignobject>
+
+
+<text class="label" id="skill-text" x="10" y="590" font-size="20"> 
+
+<animate 
+ attributeName="font-size"
+ values="28;30;28"
+ begin="0s"
+ dur="5s"
+ repeatCount="indefinite" />
+
+</text>
+
+
+
+  </svg>
+
+ 
+    <script>
+
+let myNode0 = ['Basic Stat +2500 HP +25000 Awaken Legend I',  15.00, 1.21, [  0,  0,  0,  0],0]; //solo por el 1 final xD
+let myNode1 = ['Basic Stat +2500 HP +25000 Awaken Legend I',  15.00, 1.21, [  0,  0,  0,  0],0];
+let myNode2 = ['Basic Stat +250',                             14.03, 1.96, [  1,  3,  3,  3],0];
+let myNode3 = ['Accuracy +5 Evasion +3',                      12.98, 2.76, [  2,  4,  6,  6],0];
+let myNode4 = ['Movement Speed +10',                          12.33, 2.18, [  3,  5,  5,  5],0];
+let myNode5 = ['Movement Speed +10',                          11.45, 2.66, [  4,  6,  7,  7],0];
+let myNode6 = ['Accuracy +5 Evasion +3',                      12.27, 3.79, [  3,  5,  7,  7],0];
+let myNode7 = ['Crit DMG +4 Accuracy +5 Evasion +3',          10.89, 3.68, [  5,  6, 23, 23],0];
+let myNode8 = ['Stamina +500',                                15.97, 1.96, [  1,  9,  9,  9],0];
+let myNode9 = ['Defense +200 Ele Resist +200',                17.01, 2.757,[  0,  0,  0,  0],0];
+let myNode10 = ['HP +1000',                                   17.66, 2.176,[  0,  0,  0,  0],0];
+let myNode11 = ['HP +1000',                                   18.54, 2.655,[  0,  0,  0,  0],0];
+let myNode12 = ['Defense +200 Ele Resist +200',17.73, 3.791,[  0,  0,  0,  0],0];
+let myNode13 = ['HP +1000 Defense +200  Ele Resist +200',19.10, 3.683,[  0,  0,  0,  0],0];
+let myNode14 = ['Strength/Magic +500',15.00, 2.168,[  0,  0,  0,  0],0];
+let myNode15 = ['Normal Added DMG +3000',14.41, 3.086,[  0,  0,  0,  0],0];
+let myNode16 = ['Boss Added DMG +3000',15.58, 3.086,[  0,  0,  0,  0],0];
+let myNode17 = ['Normal Amplification +1%',14.26, 3.947,[  0,  0,  0,  0],0];
+let myNode18 = ['Boss Amplification +1%',15.73, 3.952,[  0,  0,  0,  0],0];
+let myNode19 = ['Strength/Magic +500',15.00, 5.224,[  0,  0,  0,  0],0];
+let myNode20 = ['Strength/Magic +500',13.40, 5.224,[  0,  0,  0,  0],0];
+let myNode21 = ['Strength/Magic +500',11.80, 5.224,[  0,  0,  0,  0],0];
+let myNode22 = ['Basic Stats +250',9.880, 5.224,[  0,  0,  0,  0],0];
+let myNode23 = ['Basic Stats +250',9.880, 4.300,[  0,  0,  0,  0],0];
+let myNode24 = ['Basic Stats +250',9.880, 2.647,[  0,  0,  0,  0],0];
+let myNode25 = ['Basic Stats +250',9.880, 1.213,[  0,  0,  0,  0],0];
+let myNode26 = ['Basic Stats +250',8.908, 1.213,[  0,  0,  0,  0],0];
+let myNode27 = ['Basic Stats +250',6.551, 1.213,[  0,  0,  0,  0],0];
+let myNode28 = ['Basic Stats +250',6.551, 2.847,[  0,  0,  0,  0],0];
+let myNode29 = ['Basic Stats +250',6.551, 4.682,[  0,  0,  0,  0],0];
+let myNode30 = ['Basic Stats +250',6.551, 6.400,[  0,  0,  0,  0],0];
+let myNode31 = ['Basic Stats +250',6.551, 8.886,[  0,  0,  0,  0],0];
+let myNode32 = ['Strength/Magic +500',7.939, 8.886,[  0,  0,  0,  0],0];
+let myNode33 = ['Strength/Magic +500',10.33, 8.886,[  0,  0,  0,  0],0];
+let myNode34 = ['Strength/Magic +500',11.68, 8.886,[  0,  0,  0,  0],0];
+let myNode35 = ['Strength/Magic +500',13.36, 8.886,[  0,  0,  0,  0],0];
+let myNode36 = ['Strength/Magic +500',15.00, 8.886,[  0,  0,  0,  0],0];
+let myNode37 = ['Strength/Magic +500',16.66, 8.878,[  0,  0,  0,  0],0];
+let myNode38 = ['Strength/Magic +500',18.31, 8.886,[  0,  0,  0,  0],0];
+let myNode39 = ['Strength/Magic +500',19.66, 8.886,[  0,  0,  0,  0],0];
+let myNode40 = ['Strength/Magic +500',22.03, 8.886,[  0,  0,  0,  0],0];
+let myNode41 = ['Stamina +500',23.44, 8.886,[  0,  0,  0,  0],0];
+let myNode42 = ['Stamina +500',23.44, 6.407,[  0,  0,  0,  0],0];
+let myNode43 = ['Stamina +500',23.44, 4.682,[  0,  0,  0,  0],0];
+let myNode44 = ['Stamina +500',23.44, 2.847,[  0,  0,  0,  0],0];
+let myNode45 = ['Stamina +500',23.44, 1.213,[  0,  0,  0,  0],0];
+let myNode46 = ['Stamina +500',21.10, 1.213,[  0,  0,  0,  0],0];
+let myNode47 = ['Stamina +500',20.13, 1.213,[  0,  0,  0,  0],0];
+let myNode48 = ['Stamina +500',20.13, 2.671,[  0,  0,  0,  0],0];
+let myNode49 = ['Stamina +500',20.13, 4.308,[  0,  0,  0,  0],0];
+let myNode50 = ['Stamina +500',20.11, 5.224,[  0,  0,  0,  0],0];
+let myNode51 = ['Strength/Magic +500',18.19, 5.224,[  0,  0,  0,  0],0];
+let myNode52 = ['Strength/Magic +500',16.59, 5.224,[  0,  0,  0,  0],0];
+let myNode53 = ['Movement Speed +10',9.292, 2.647,[  0,  0,  0,  0],0];
+let myNode54 = ['Movement Speed +10',8.725, 2.097,[  0,  0,  0,  0],0];
+let myNode55 = ['Movement Speed +10',8.174, 2.647,[  0,  0,  0,  0],0];
+let myNode56 = ['Awaken Stone Slot (Connected to 54/55)',7.266, 1.934,[  0,  0,  0,  0],0];
+let myNode57 = ['Crit DMG +4',9.333, 4.301,[  0,  0,  0,  0],0];
+let myNode58 = ['CDR +0.5% Crit DMG +2%',8.849, 3.891,[  0,  0,  0,  0],0];
+let myNode59 = ['CDR +1% Crit DMG +4 %',8.308, 3.531,[  0,  0,  0,  0],0];
+let myNode60 = ['CDR +0.5% Crit DMG +2%',7.757, 3.881,[  0,  0,  0,  0],0];
+let myNode61 = ['Crit DMG +4% CDR +0.5%',7.324, 4.315,[  0,  0,  0,  0],0];
+let myNode62 = ['Crit DMG +4%',7.793, 4.682,[  0,  0,  0,  0],0];
+let myNode63 = ['Crit DMG +8%',8.341, 5.066,[  0,  0,  0,  0],0];
+let myNode64 = ['Crit DMG +4%',8.832, 4.682,[  0,  0,  0,  0],0];
+let myNode65 = ['Defense Pen +3%',9.333, 5.950,[  0,  0,  0,  0],0];
+let myNode66 = ['Defense Pen +3%',8.668, 6.510,[  0,  0,  0,  0],0];
+let myNode67 = ['Defense Pen +6%',7.939, 7.000,[  0,  0,  0,  0],0];
+let myNode68 = ['Defense Pen +3%',7.939, 8.000,[  0,  0,  0,  0],0];
+let myNode69 = ['Crit DMG +4%',8.668, 8.414,[  0,  0,  0,  0],0];
+let myNode70 = ['Crit DMG +8%',9.333, 7.970,[  0,  0,  0,  0],0];
+let myNode71 = ['Crit DMG +4%',9.333, 6.914,[  0,  0,  0,  0],0];
+let myNode72 = ['Crit Rate +3%',8.668, 7.410,[  0,  0,  0,  0],0];
+let myNode73 = ['Luck +1%',10.12, 7.046,[  0,  0,  0,  0],0];
+let myNode74 = ['Strength/Magic +1% Luck +1%',11.05, 7.808,[  0,  0,  0,  0],0];
+let myNode75 = ['Strength/Magic +1%',11.72, 7.046,[  0,  0,  0,  0],0];
+let myNode76 = ['Strength/Magic +1000 Luck +1000',11.21, 6.281,[  0,  0,  0,  0],0];
+let myNode77 = ['Normal Added DMG +3000',12.60, 7.614,[  0,  0,  0,  0],0];
+let myNode78 = ['Normal Amplification +0.2%',13.24, 7.046,[  0,  0,  0,  0],0];
+let myNode79 = ['Normal Added DMG +3000',12.63, 6.526,[  0,  0,  0,  0],0];
+let myNode80 = ['Static DMG +2% CDR +5%',14.18, 7.046,[  0,  0,  0,  0],0];
+let myNode81 = ['Static DMG +2000',14.48, 7.677,[  0,  0,  0,  0],0];
+let myNode82 = ['Static DMG +2000 Atk/Int +10',15.00, 7.858,[  0,  0,  0,  0],0];
+let myNode83 = ['Attack/Int +10',15.50, 7.682,[  0,  0,  0,  0],0];
+let myNode84 = ['Attack/Int +2%',15.81, 7.046,[  0,  0,  0,  0],0];
+let myNode85 = ['Attack/Int +10',15.52, 6.428,[  0,  0,  0,  0],0];
+let myNode86 = ['Static DMG +2000',15.00, 6.234,[  0,  0,  0,  0],0];
+let myNode87 = ['Static DMG +2000',14.49, 6.411,[  0,  0,  0,  0],0];
+let myNode88 = ['Boss Amplification +0.2%',16.76, 7.046,[  0,  0,  0,  0],0];
+let myNode89 = ['Boss Added DMG +3000',17.41, 7.613,[  0,  0,  0,  0],0];
+let myNode90 = ['Boss Added DMG +3000',17.33, 6.526,[  0,  0,  0,  0],0];
+let myNode91 = ['Strength/Magic +1%',18.27, 7.046,[  0,  0,  0,  0],0];
+let myNode92 = ['Strength/Magic +1% Stamina +1%',18.94, 7.808,[  0,  0,  0,  0],0];
+let myNode93 = ['Stamina +1%',19.87, 7.046,[  0,  0,  0,  0],0];
+let myNode94 = ['Strength/Magic +1000 Stamina +1000',18.78, 6.281,[  0,  0,  0,  0],0];
+let myNode95 = ['Minimum DMG +8%',20.66, 5.950,[  0,  0,  0,  0],0];
+let myNode96 = ['Maximum DMG +8%',20.66, 6.914,[  0,  0,  0,  0],0];
+let myNode97 = ['Maximum DMG +8%',20.66, 7.970,[  0,  0,  0,  0],0];
+let myNode98 = ['Maximum DMG +8%',21.33, 8.414,[  0,  0,  0,  0],0];
+let myNode99 = ['Maximum DMG +8%',22.06, 8.000,[  0,  0,  0,  0],0];
+let myNode100 = ['Maximum DMG +16%',22.06, 7.000,[  0,  0,  0,  0],0];
+let myNode101 = ['Minimum DMG +16%',21.33, 6.510,[  0,  0,  0,  0],0];
+let myNode102 = ['Dual DMG +13%',21.33, 7.410,[  0,  0,  0,  0],0];
+let myNode103 = ['Maximum HP +1000',20.66, 4.301,[  0,  0,  0,  0],0];
+let myNode104 = ['Basic Stats +250',21.16, 4.682,[  0,  0,  0,  0],0];
+let myNode105 = ['Basic Stats +1%',21.65, 5.066,[  0,  0,  0,  0],0];
+let myNode106 = ['Basic Stats +250',22.20, 4.682,[  0,  0,  0,  0],0];
+let myNode107 = ['Basic Stats +500 Maximum HP +1000',22.67, 4.315,[  0,  0,  0,  0],0];
+let myNode108 = ['Maximum HP +1000',22.24, 3.881,[  0,  0,  0,  0],0];
+let myNode109 = ['Maximum HP +2000',21.69, 3.531,[  0,  0,  0,  0],0];
+let myNode110 = ['Maximum HP +1000',21.15, 3.891,[  0,  0,  0,  0],0];
+let myNode111 = ['Stamina +500',20.71, 2.671,[  0,  0,  0,  0],0];
+let myNode112 = ['Stamina +500',21.27, 2.117,[  0,  0,  0,  0],0];
+let myNode113 = ['Stamina +1%',21.80, 2.671,[  0,  0,  0,  0],0];
+let myNode114 = ['Awaken Stone Slot (Connected to 113)',22.79, 1.902,[  0,  0,  0,  0],0];
+let myNode115 = ['Basic Stats +1%',6.551, 10.08,[  0,  0,  0,  0],0];
+let myNode116 = ['Stamina +1%',6.551, 11.25,[  0,  0,  0,  0],0];
+let myNode117 = ['Basic Stats +250',6.551, 13.09,[  0,  0,  0,  0],0];
+let myNode118 = ['Ele Resist +200',7.123, 12.15,[  0,  0,  0,  0],0];
+let myNode119 = ['Ele Resist +200',7.607, 11.22,[  0,  0,  0,  0],0];
+let myNode120 = ['Ele Resist +1%',7.307, 10.62,[  0,  0,  0,  0],0];
+let myNode121 = ['Ele Resist +200',7.807, 9.937,[  0,  0,  0,  0],0];
+let myNode122 = ['Ele Resist +200',8.641, 10.17,[  0,  0,  0,  0],0];
+let myNode123 = ['Ele Resist +200',8.925, 10.85,[  0,  0,  0,  0],0];
+let myNode124 = ['Awaken Stone Slot (Connected to 123)',8.324, 11.40,[  0,  0,  0,  0],0];
+let myNode125 = ['Normal Added DMG +3000',11.66, 9.639,[  0,  0,  0,  0],0];
+let myNode126 = ['Normal Amplification +0.2%',12.34, 9.963,[  0,  0,  0,  0],0];
+let myNode127 = ['Normal Amplification +0.4%',12.41, 10.73,[  0,  0,  0,  0],0];
+let myNode128 = ['Normal Amplification +0.2%',11.68, 11.21,[  0,  0,  0,  0],0];
+let myNode129 = ['Normal Added DMG +3000',11.07, 10.92,[  0,  0,  0,  0],0];
+let myNode130 = ['Normal Added DMG +3000',10.65, 11.72,[  0,  0,  0,  0],0];
+let myNode131 = ['Normal Amplification +0.2%',9.953, 11.65,[  0,  0,  0,  0],0];
+let myNode132 = ['Normal Amplification +1%',9.670, 12.34,[  0,  0,  0,  0],0];
+let myNode133 = ['Normal Added DMG +3000',10.24, 12.66,[  0,  0,  0,  0],0];
+let myNode134 = ['Maximum HP -3% Normal Amplification +2.5%',13.32, 9.725,[  0,  0,  0,  0],0];
+let myNode135 = ['Strength/Magic +500',15.00, 9.890,[  0,  0,  0,  0],0];
+let myNode136 = ['Strength/Magic +1000 Minimum DMG +8%',13.60, 10.70,[  0,  0,  0,  0],0];
+let myNode137 = ['Min DMG +3%',13.61, 11.98,[  0,  0,  0,  0],0];
+let myNode138 = ['Dual DMG +8%',15.00, 12.73,[  0,  0,  0,  0],0];
+let myNode139 = ['Max DMG +3%',16.38, 11.98,[  0,  0,  0,  0],0];
+let myNode140 = ['Strength/Magic +1000 Max DMG +8%',16.39, 10.70,[  0,  0,  0,  0],0];
+let myNode141 = ['Strength/Magic +2000',15.00, 10.77,[  0,  0,  0,  0],0];
+let myNode142 = ['Strength/Magic +2000',14.44, 11.22,[  0,  0,  0,  0],0];
+let myNode143 = ['Crit DMG +3%',15.00, 11.88,[  0,  0,  0,  0],0];
+let myNode144 = ['Strength/Magic +2000',15.52, 11.27,[  0,  0,  0,  0],0];
+let myNode145 = ['Maximum HP -3% Boss Amplification +2.5%',16.67, 9.725,[  0,  0,  0,  0],0];
+let myNode146 = ['Boss Added DMG +3000',18.31, 9.616,[  0,  0,  0,  0],0];
+let myNode147 = ['Boss Amplification +0.2%',17.65, 9.963,[  0,  0,  0,  0],0];
+let myNode148 = ['Boss Amplification +0.4%',17.58, 10.73,[  0,  0,  0,  0],0];
+let myNode149 = ['Boss Amplification +0.2%',18.31, 11.21,[  0,  0,  0,  0],0];
+let myNode150 = ['Boss Added DMG +3000',18.92, 10.92,[  0,  0,  0,  0],0];
+let myNode151 = ['Boss Added DMG +3000',19.34, 11.72,[  0,  0,  0,  0],0];
+let myNode152 = ['Boss Amplification +0.2%',20.04, 11.65,[  0,  0,  0,  0],0];
+let myNode153 = ['Normal Added DMG +1%',20.32, 12.34,[  0,  0,  0,  0],0];
+let myNode154 = ['Normal Added DMG +3000',19.75, 12.66,[  0,  0,  0,  0],0];
+let myNode155 = ['Defense +200',21.33, 10.07,[  0,  0,  0,  0],0];
+let myNode156 = ['Defense +200',22.25, 9.944,[  0,  0,  0,  0],0];
+let myNode157 = ['Defense +1%',22.70, 10.62,[  0,  0,  0,  0],0];
+let myNode158 = ['Defense +200',22.41, 11.29,[  0,  0,  0,  0],0];
+let myNode159 = ['Awaken Stone Slot (Connected to 160)',21.58, 11.42,[  0,  0,  0,  0],0];
+let myNode160 = ['Defense +200',21.08, 10.78,[  0,  0,  0,  0],0];
+let myNode161 = ['Defense +200',22.94, 12.20,[  0,  0,  0,  0],0];
+let myNode162 = ['Defense +500',23.44, 13.09,[  0,  0,  0,  0],0];
+let myNode163 = ['Strength/Magic +2000',23.44, 11.28,[  0,  0,  0,  0],0];
+let myNode164 = ['Basic Stat +1%',23.44, 10.08,[  0,  0,  0,  0],0];
+let myNode165 = ['Increase Movement Speed by 50% for 60s (1% chance when hit)',5.722, 1.746,[  0,  0,  0,  0],0];
+let myNode166 = ['Basic Stat +1000',5.655, 2.847,[  0,  0,  0,  0],0];
+let myNode167 = ['Basic Stat +1000',4.821, 1.997,[  0,  0,  0,  0],0];
+let myNode168 = ['Basic Stat +1% Strength/Magic +1%',4.037, 2.847,[  0,  0,  0,  0],0];
+let myNode169 = ['Strength/Magic +2000',4.788, 3.681,[  0,  0,  0,  0],0];
+let myNode170 = ['Back Attack DMG +10%',6.022, 4.682,[  0,  0,  0,  0],0];
+let myNode171 = ['Back Attack DMG +10%',5.389, 4.682,[  0,  0,  0,  0],0];
+let myNode172 = ['Back Attack DMG +10%',4.721, 4.682,[  0,  0,  0,  0],0];
+let myNode173 = ['Conversion to HP based on Ascension Lv ( x * 5)',3.871, 4.682,[  0,  0,  0,  0],0];
+let myNode174 = ['Max DMG +8%',5.525, 5.923,[  0,  0,  0,  0],0];
+let myNode175 = ['Max DMG +16%',4.860, 5.584,[  0,  0,  0,  0],0];
+let myNode176 = ['Max DMG +8%',4.221, 5.897,[  0,  0,  0,  0],0];
+let myNode177 = ['Min DMG +8%',4.221, 6.914,[  0,  0,  0,  0],0];
+let myNode178 = ['Min DMG +16%',4.847, 7.188,[  0,  0,  0,  0],0];
+let myNode179 = ['Min DMG +8%',5.525, 6.914,[  0,  0,  0,  0],0];
+let myNode180 = ['Movement Speed +10',5.000, 10.00,[  0,  0,  0,  0],0];
+let myNode181 = ['Movement Speed +10',4.204, 9.787,[  0,  0,  0,  0],0];
+let myNode182 = ['Movement Speed +10',4.271, 10.65,[  0,  0,  0,  0],0];
+let myNode183 = ['Enemies with less than 30% HP hit by a strong additional hit 10 times (5% Chance)',24.27, 1.746,[  0,  0,  0,  0],0];
+let myNode184 = ['Maximum HP +1000',24.15, 2.847,[  0,  0,  0,  0],0];
+let myNode185 = ['Maximum HP +1000',24.79, 2.847,[  0,  0,  0,  0],0];
+let myNode186 = ['Maximum HP +2000',25.85, 2.025,[  0,  0,  0,  0],0];
+let myNode187 = ['Maximum HP +2000',25.85, 2.847,[  0,  0,  0,  0],0];
+let myNode188 = ['Maximum HP +2000',25.86, 3.710,[  0,  0,  0,  0],0];
+let myNode189 = ['Back Attack DMG +10%',23.99, 4.682,[  0,  0,  0,  0],0];
+let myNode190 = ['Back Attack DMG +10%',24.62, 4.682,[  0,  0,  0,  0],0];
+let myNode191 = ['Back Attack DMG +10%',25.24, 4.682,[  0,  0,  0,  0],0];
+let myNode192 = ['Attacking enemies with less than <50% HP grants CDR +20% Crit Rate +5% Movement Speed +50 (30s)',26.07, 4.682,[  0,  0,  0,  0],0];
+let myNode193 = ['Crit DMG +4%',24.47, 5.889,[  0,  0,  0,  0],0];
+let myNode194 = ['Crit Rate +1%',25.14, 5.583,[  0,  0,  0,  0],0];
+let myNode195 = ['Crit DMG +4%',25.77, 5.922,[  0,  0,  0,  0],0];
+let myNode196 = ['Defense Pen +3%',25.75, 6.891,[  0,  0,  0,  0],0];
+let myNode197 = ['Defense Pen +6%',25.11, 7.206,[  0,  0,  0,  0],0];
+let myNode198 = ['Defense Pen 3%',24.48, 6.914,[  0,  0,  0,  0],0];
+let myNode199 = ['CDR +2.0%',24.22, 10.08,[  0,  0,  0,  0],0];
+let myNode200 = ['CDR +2.0%',24.99, 9.605,[  0,  0,  0,  0],0];
+let myNode201 = ['CDR +2.0%',25.28, 10.41,[  0,  0,  0,  0],0];
+let myNode202 = ['Basic Stats +250',3.170, 2.847,[  0,  0,  0,  0],0];
+let myNode203 = ['Skill DMG +10%',2.486, 2.847,[  0,  0,  0,  0],0];
+let myNode204 = ['Skill Level +1 (Class skill)',1.552, 2.847,[  0,  0,  0,  0],0];
+let myNode205 = ['Awaken Class Skill ',0.8211, 3.93,[  0,  0,  0,  0],0];
+let myNode206 = ['Awaken Class skill ',0.8211, 1.67,[  0,  0,  0,  0],0];
+let myNode207 = ['Basic Stat +250',3.220, 4.365,[  0,  0,  0,  0],0];
+let myNode208 = ['Luck +1000',2.536, 4.766,[  0,  0,  0,  0],0];
+let myNode209 = ['Luck +1000',1.669, 4.732,[  0,  0,  0,  0],0];
+let myNode210 = ['Conversion to Crit DMG based on Ascension Lv (1% of Asc Lvl)',2.233, 5.792,[  0,  0,  0,  0],0];
+let myNode211 = ['Basic Stat +250',3.120, 6.434,[  0,  0,  0,  0],0];
+let myNode212 = ['Min DMG +12%',2.269, 6.951,[  0,  0,  0,  0],0];
+let myNode213 = ['Movement Speed -20% Normal Amp +2.5%',1.185, 7.001,[  0,  0,  0,  0],0];
+let myNode214 = ['Min DMG +12%',1.785, 7.835,[  0,  0,  0,  0],0];
+let myNode215 = ['Basic Stat +250',5.472, 13.62,[  0,  0,  0,  0],0];
+let myNode216 = ['Static DMG +1%',5.422, 14.40,[  0,  0,  0,  0],0];
+let myNode217 = ['Static DMG +1%',6.000, 15.00,[  0,  0,  0,  0],0];
+let myNode218 = ['Increase Target Limit by 1 for all skills (Summons excluded)',5.022, 15.35,[  0,  0,  0,  0],0];
+let myNode219 = ['Basic Stat +250',4.271, 12.67,[  0,  0,  0,  0],0];
+let myNode220 = ['Skill DMG +10%',3.720, 13.60,[  0,  0,  0,  0],0];
+let myNode221 = ['Infinity Skill Lv +1',4.037, 14.69,[  0,  0,  0,  0],0];
+let myNode222 = ['Shield effect added to Infinity skill (Proportionate to 100% of your Max HP) for 3s',2.870, 14.97,[  0,  0,  0,  0],0];
+let myNode223 = ['Infinity Skill Lv +1',2.703, 13.87,[  0,  0,  0,  0],0];
+let myNode224 = ['Basic Stat +250',2.836, 11.72,[  0,  0,  0,  0],0];
+let myNode225 = ['Maximum HP +2000',2.353, 12.57,[  0,  0,  0,  0],0];
+let myNode226 = ['Maximum HP +1%',1.902, 13.35,[  0,  0,  0,  0],0];
+let myNode227 = ['Maximum HP +1%',1.385, 12.62,[  0,  0,  0,  0],0];
+let myNode228 = ['Increase Target Limit by 1 for all skills (Summons excluded)',2.086, 10.40,[  0,  0,  0,  0],0];
+let myNode229 = ['Strength/Magic +500',10.24, 13.58,[  0,  0,  0,  0],0];
+let myNode230 = ['Skill DMG +5%',9.522, 14.12,[  0,  0,  0,  0],0];
+let myNode231 = ['Skill DMG +5%',8.451, 14.32,[  0,  0,  0,  0],0];
+let myNode232 = ['Class Skill Target Limit +1',8.443, 15.27,[  0,  0,  0,  0],0];
+let myNode233 = ['Class Skill gains effect',9.738, 15.27,[  0,  0,  0,  0],0];
+let myNode234 = ['Strength/Magic +500',12.26, 13.58,[  0,  0,  0,  0],0];
+let myNode235 = ['Skill DMG +10%',11.86, 14.25,[  0,  0,  0,  0],0];
+let myNode236 = ['Awakening I Skill Lv +1',11.35, 14.94,[  0,  0,  0,  0],0];
+let myNode237 = ['Awakening I all attacks are critical hits ',12.35, 15.06,[  0,  0,  0,  0],0];
+let myNode238 = ['Special class buff effect doubled but 1.5x longer CD',11.75, 12.80,[  0,  0,  0,  0],0];
+let myNode239 = ['Strength/Magic +500',15.00, 13.58,[  0,  0,  0,  0],0];
+let myNode240 = ['Legend II Target Limit increased by 1',15.00, 14.24,[  0,  0,  0,  0],0];
+let myNode241 = ['Legend II Target Limit increased by 1',15.00, 15.00,[  0,  0,  0,  0],0];
+let myNode242 = ['Legend II applies stun effect for 2s',15.00, 15.83,[  0,  0,  0,  0],0];
+let myNode243 = ['Strength/Magic +500',17.73, 13.58,[  0,  0,  0,  0],0];
+let myNode244 = ['Skill DMG +10%',18.13, 14.25,[  0,  0,  0,  0],0];
+let myNode245 = ['Awakening II Skill Lv +1',18.64, 14.94,[  0,  0,  0,  0],0];
+let myNode246 = ['Awakening II Skill CD reduced by 50%',17.64, 15.06,[  0,  0,  0,  0],0];
+let myNode247 = ['Survival Instinct effect doubled but 1.5x longer CD',18.16, 12.84,[  0,  0,  0,  0],0];
+let myNode248 = ['Strength/Magic +500',19.75, 13.58,[  0,  0,  0,  0],0];
+let myNode249 = ['Skill DMG +5%',20.47, 14.12,[  0,  0,  0,  0],0];
+let myNode250 = ['Skill DMG +5%',21.54, 14.32,[  0,  0,  0,  0],0];
+let myNode251 = ['Class Skill Lv +1',21.55, 15.27,[  0,  0,  0,  0],0];
+let myNode252 = ['Class Skill gains effect',20.26, 15.27,[  0,  0,  0,  0],0];
+let myNode253 = ['Stamina +500',24.52, 13.09,[  0,  0,  0,  0],0];
+let myNode254 = ['Movement Speed +10%',24.50, 14.00,[  0,  0,  0,  0],0];
+let myNode255 = ['Class Skill gains effect',23.92, 14.72,[  0,  0,  0,  0],0];
+let myNode256 = ['Special Gauge +1500',24.85, 14.95,[  0,  0,  0,  0],0];
+let myNode257 = ['Stamina +500',25.31, 11.76,[  0,  0,  0,  0],0];
+let myNode258 = ['Skill DMG +10%',26.16, 11.72,[  0,  0,  0,  0],0];
+let myNode259 = ['Class Skill Lv +1',26.65, 12.27,[  0,  0,  0,  0],0];
+let myNode260 = ['Class skill gains effect',27.23, 11.72,[  0,  0,  0,  0],0];
+let myNode261 = ['Class Skill Lv +1',26.68, 11.20,[  0,  0,  0,  0],0];
+let myNode262 = ['Stamina +500',26.06, 10.41,[  0,  0,  0,  0],0];
+let myNode263 = ['1% chance to gain 250 Special Gauge when attacking.',27.08, 9.816,[  0,  0,  0,  0],0];
+let myNode264 = ['Confusion Resistance +2.0%',26.06, 9.036,[  0,  0,  0,  0],0];
+let myNode265 = ['Confusion Resistance +2.0%',25.83, 8.563,[  0,  0,  0,  0],0];
+let myNode266 = ['Awaken Stone Slot (Connected to 265)',26.55, 8.076,[  0,  0,  0,  0],0];
+let myNode267 = ['Confusion Resistance +2.0%',26.71, 9.009,[  0,  0,  0,  0],0];
+let myNode268 = ['Stamina +500',26.81, 6.419,[  0,  0,  0,  0],0];
+let myNode269 = ['Max DMG +12%',27.79, 6.962,[  0,  0,  0,  0],0];
+let myNode270 = ['Max DMG +12%',28.18, 7.762,[  0,  0,  0,  0],0];
+let myNode271 = ['Accuracy -10% Boss Amplifcation +2.5%',28.78, 6.949,[  0,  0,  0,  0],0];
+let myNode272 = ['Stamina +500',26.81, 4.358,[  0,  0,  0,  0],0];
+let myNode273 = ['Maximum HP +1000',27.47, 4.711,[  0,  0,  0,  0],0];
+let myNode274 = ['Maximum HP +1000',28.33, 4.682,[  0,  0,  0,  0],0];
+let myNode275 = ['Final Min/Max/Crit DMG +1% for 10s when attacking an enemy > 90%HP',27.76, 5.792,[  0,  0,  0,  0],0];
+let myNode276 = ['Stamina +500',26.81, 2.847,[  0,  0,  0,  0],0];
+let myNode277 = ['Skill DMG +10%',27.64, 2.847,[  0,  0,  0,  0],0];
+let myNode278 = ['Class Skill Lv +1',28.18, 3.404,[  0,  0,  0,  0],0];
+let myNode279 = ['Class Skill Lv +1',28.77, 2.847,[  0,  0,  0,  0],0];
+let myNode280 = ['Class Skill Lv +1',28.18, 2.274,[  0,  0,  0,  0],0];
+let myNode281 = ['Awaken Class skill ',29.48, 4.001,[  0,  0,  0,  0],0];
+let myNode282 = ['Awaken Class skill ',29.43, 1.672,[  0,  0,  0,  0],0];
+let myNode283 = ['Normal Added Damage +3000 Boss Added Damage +3000',15.00, 4.437,[  0,  0,  0,  0],0];
+
+
+let myNodeBig = [
+'Basic Stat +2500 HP +25000 Awaken Legend I',  15.00, 1.21, [  0,  0,  0,  0],0,
+'Basic Stat +250',                             14.03, 1.96, [  1,  3,  3,  3],0,
+'Accuracy +5 Evasion +3',                      12.98, 2.76, [  2,  4,  6,  6],0,
+'Movement Speed +10',                          12.33, 2.18, [  3,  5,  5,  5],0,
+'Movement Speed +10',                          11.45, 2.66, [  4,  6,  7,  7],0,
+'Accuracy +5 Evasion +3',                      12.27, 3.79, [  3,  5,  7,  7],0,
+'Crit DMG +4 Accuracy +5 Evasion +3',          10.89, 3.68, [  5,  6, 23, 23],0,
+'Stamina +500',                                15.97, 1.96, [  1,  9,  9,  9],0,
+'Defense +200 Ele Resist +200',                17.01, 2.75, [  0,  0,  0,  0],0,
+'HP +1000',                                    17.66, 2.17, [  0,  0,  0,  0],0,
+'HP +1000',18.54, 2.655,[  0,  0,  0,  0],0,
+'Defense +200 Ele Resist +200',17.73, 3.791,[  0,  0,  0,  0],0,
+'HP +1000 Defense +200  Ele Resist +200',19.10, 3.683,[  0,  0,  0,  0],0,
+'Strength/Magic +500',15.00, 2.168,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',14.41, 3.086,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',15.58, 3.086,[  0,  0,  0,  0],0,
+'Normal Amplification +1%',14.26, 3.947,[  0,  0,  0,  0],0,
+'Boss Amplification +1%',15.73, 3.952,[  0,  0,  0,  0],0,
+'Strength/Magic +500',15.00, 5.224,[  0,  0,  0,  0],0,
+'Strength/Magic +500',13.40, 5.224,[  0,  0,  0,  0],0,
+'Strength/Magic +500',11.80, 5.224,[  0,  0,  0,  0],0,
+'Basic Stats +250',9.880, 5.224,[  0,  0,  0,  0],0,
+'Basic Stats +250',9.880, 4.300,[  0,  0,  0,  0],0,
+'Basic Stats +250',9.880, 2.647,[  0,  0,  0,  0],0,
+'Basic Stats +250',9.880, 1.213,[  0,  0,  0,  0],0,
+'Basic Stats +250',8.908, 1.213,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 1.213,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 2.847,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 4.682,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 6.400,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',7.939, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',10.33, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',11.68, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',13.36, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',15.00, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',16.66, 8.878,[  0,  0,  0,  0],0,
+'Strength/Magic +500',18.31, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',19.66, 8.886,[  0,  0,  0,  0],0,
+'Strength/Magic +500',22.03, 8.886,[  0,  0,  0,  0],0,
+'Stamina +500',23.44, 8.886,[  0,  0,  0,  0],0,
+'Stamina +500',23.44, 6.407,[  0,  0,  0,  0],0,
+'Stamina +500',23.44, 4.682,[  0,  0,  0,  0],0,
+'Stamina +500',23.44, 2.847,[  0,  0,  0,  0],0,
+'Stamina +500',23.44, 1.213,[  0,  0,  0,  0],0,
+'Stamina +500',21.10, 1.213,[  0,  0,  0,  0],0,
+'Stamina +500',20.13, 1.213,[  0,  0,  0,  0],0,
+'Stamina +500',20.13, 2.671,[  0,  0,  0,  0],0,
+'Stamina +500',20.13, 4.308,[  0,  0,  0,  0],0,
+'Stamina +500',20.11, 5.224,[  0,  0,  0,  0],0,
+'Strength/Magic +500',18.19, 5.224,[  0,  0,  0,  0],0,
+'Strength/Magic +500',16.59, 5.224,[  0,  0,  0,  0],0,
+'Movement Speed +10',9.292, 2.647,[  0,  0,  0,  0],0,
+'Movement Speed +10',8.725, 2.097,[  0,  0,  0,  0],0,
+'Movement Speed +10',8.174, 2.647,[  0,  0,  0,  0],0,
+'Awaken Stone Slot (Connected to 54/55)',7.266, 1.934,[  0,  0,  0,  0],0,
+'Crit DMG +4',9.333, 4.301,[  0,  0,  0,  0],0,
+'CDR +0.5% Crit DMG +2%',8.849, 3.891,[  0,  0,  0,  0],0,
+'CDR +1% Crit DMG +4 %',8.308, 3.531,[  0,  0,  0,  0],0,
+'CDR +0.5% Crit DMG +2%',7.757, 3.881,[  0,  0,  0,  0],0,
+'Crit DMG +4% CDR +0.5%',7.324, 4.315,[  0,  0,  0,  0],0,
+'Crit DMG +4%',7.793, 4.682,[  0,  0,  0,  0],0,
+'Crit DMG +8%',8.341, 5.066,[  0,  0,  0,  0],0,
+'Crit DMG +4%',8.832, 4.682,[  0,  0,  0,  0],0,
+'Defense Pen +3%',9.333, 5.950,[  0,  0,  0,  0],0,
+'Defense Pen +3%',8.668, 6.510,[  0,  0,  0,  0],0,
+'Defense Pen +6%',7.939, 7.000,[  0,  0,  0,  0],0,
+'Defense Pen +3%',7.939, 8.000,[  0,  0,  0,  0],0,
+'Crit DMG +4%',8.668, 8.414,[  0,  0,  0,  0],0,
+'Crit DMG +8%',9.333, 7.970,[  0,  0,  0,  0],0,
+'Crit DMG +4%',9.333, 6.914,[  0,  0,  0,  0],0,
+'Crit Rate +3%',8.668, 7.410,[  0,  0,  0,  0],0,
+'Luck +1%',10.12, 7.046,[  0,  0,  0,  0],0,
+'Strength/Magic +1% Luck +1%',11.05, 7.808,[  0,  0,  0,  0],0,
+'Strength/Magic +1%',11.72, 7.046,[  0,  0,  0,  0],0,
+'Strength/Magic +1000 Luck +1000',11.21, 6.281,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',12.60, 7.614,[  0,  0,  0,  0],0,
+'Normal Amplification +0.2%',13.24, 7.046,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',12.63, 6.526,[  0,  0,  0,  0],0,
+'Static DMG +2% CDR +5%',14.18, 7.046,[  0,  0,  0,  0],0,
+'Static DMG +2000',14.48, 7.677,[  0,  0,  0,  0],0,
+'Static DMG +2000 Atk/Int +10',15.00, 7.858,[  0,  0,  0,  0],0,
+'Attack/Int +10',15.50, 7.682,[  0,  0,  0,  0],0,
+'Attack/Int +2%',15.81, 7.046,[  0,  0,  0,  0],0,
+'Attack/Int +10',15.52, 6.428,[  0,  0,  0,  0],0,
+'Static DMG +2000',15.00, 6.234,[  0,  0,  0,  0],0,
+'Static DMG +2000',14.49, 6.411,[  0,  0,  0,  0],0,
+'Boss Amplification +0.2%',16.76, 7.046,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',17.41, 7.613,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',17.33, 6.526,[  0,  0,  0,  0],0,
+'Strength/Magic +1%',18.27, 7.046,[  0,  0,  0,  0],0,
+'Strength/Magic +1% Stamina +1%',18.94, 7.808,[  0,  0,  0,  0],0,
+'Stamina +1%',19.87, 7.046,[  0,  0,  0,  0],0,
+'Strength/Magic +1000 Stamina +1000',18.78, 6.281,[  0,  0,  0,  0],0,
+'Minimum DMG +8%',20.66, 5.950,[  0,  0,  0,  0],0,
+'Maximum DMG +8%',20.66, 6.914,[  0,  0,  0,  0],0,
+'Maximum DMG +8%',20.66, 7.970,[  0,  0,  0,  0],0,
+'Maximum DMG +8%',21.33, 8.414,[  0,  0,  0,  0],0,
+'Maximum DMG +8%',22.06, 8.000,[  0,  0,  0,  0],0,
+'Maximum DMG +16%',22.06, 7.000,[  0,  0,  0,  0],0,
+'Minimum DMG +16%',21.33, 6.510,[  0,  0,  0,  0],0,
+'Dual DMG +13%',21.33, 7.410,[  0,  0,  0,  0],0,
+'Maximum HP +1000',20.66, 4.301,[  0,  0,  0,  0],0,
+'Basic Stats +250',21.16, 4.682,[  0,  0,  0,  0],0,
+'Basic Stats +1%',21.65, 5.066,[  0,  0,  0,  0],0,
+'Basic Stats +250',22.20, 4.682,[  0,  0,  0,  0],0,
+'Basic Stats +500 Maximum HP +1000',22.67, 4.315,[  0,  0,  0,  0],0,
+'Maximum HP +1000',22.24, 3.881,[  0,  0,  0,  0],0,
+'Maximum HP +2000',21.69, 3.531,[  0,  0,  0,  0],0,
+'Maximum HP +1000',21.15, 3.891,[  0,  0,  0,  0],0,
+'Stamina +500',20.71, 2.671,[  0,  0,  0,  0],0,
+'Stamina +500',21.27, 2.117,[  0,  0,  0,  0],0,
+'Stamina +1%',21.80, 2.671,[  0,  0,  0,  0],0,
+'Awaken Stone Slot (Connected to 113)',22.79, 1.902,[  0,  0,  0,  0],0,
+'Basic Stats +1%',6.551, 10.08,[  0,  0,  0,  0],0,
+'Stamina +1%',6.551, 11.25,[  0,  0,  0,  0],0,
+'Basic Stats +250',6.551, 13.09,[  0,  0,  0,  0],0,
+'Ele Resist +200',7.123, 12.15,[  0,  0,  0,  0],0,
+'Ele Resist +200',7.607, 11.22,[  0,  0,  0,  0],0,
+'Ele Resist +1%',7.307, 10.62,[  0,  0,  0,  0],0,
+'Ele Resist +200',7.807, 9.937,[  0,  0,  0,  0],0,
+'Ele Resist +200',8.641, 10.17,[  0,  0,  0,  0],0,
+'Ele Resist +200',8.925, 10.85,[  0,  0,  0,  0],0,
+'Awaken Stone Slot (Connected to 123)',8.324, 11.40,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',11.66, 9.639,[  0,  0,  0,  0],0,
+'Normal Amplification +0.2%',12.34, 9.963,[  0,  0,  0,  0],0,
+'Normal Amplification +0.4%',12.41, 10.73,[  0,  0,  0,  0],0,
+'Normal Amplification +0.2%',11.68, 11.21,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',11.07, 10.92,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',10.65, 11.72,[  0,  0,  0,  0],0,
+'Normal Amplification +0.2%',9.953, 11.65,[  0,  0,  0,  0],0,
+'Normal Amplification +1%',9.670, 12.34,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',10.24, 12.66,[  0,  0,  0,  0],0,
+'Maximum HP -3% Normal Amplification +2.5%',13.32, 9.725,[  0,  0,  0,  0],0,
+'Strength/Magic +500',15.00, 9.890,[  0,  0,  0,  0],0,
+'Strength/Magic +1000 Minimum DMG +8%',13.60, 10.70,[  0,  0,  0,  0],0,
+'Min DMG +3%',13.61, 11.98,[  0,  0,  0,  0],0,
+'Dual DMG +8%',15.00, 12.73,[  0,  0,  0,  0],0,
+'Max DMG +3%',16.38, 11.98,[  0,  0,  0,  0],0,
+'Strength/Magic +1000 Max DMG +8%',16.39, 10.70,[  0,  0,  0,  0],0,
+'Strength/Magic +2000',15.00, 10.77,[  0,  0,  0,  0],0,
+'Strength/Magic +2000',14.44, 11.22,[  0,  0,  0,  0],0,
+'Crit DMG +3%',15.00, 11.88,[  0,  0,  0,  0],0,
+'Strength/Magic +2000',15.52, 11.27,[  0,  0,  0,  0],0,
+'Maximum HP -3% Boss Amplification +2.5%',16.67, 9.725,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',18.31, 9.616,[  0,  0,  0,  0],0,
+'Boss Amplification +0.2%',17.65, 9.963,[  0,  0,  0,  0],0,
+'Boss Amplification +0.4%',17.58, 10.73,[  0,  0,  0,  0],0,
+'Boss Amplification +0.2%',18.31, 11.21,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',18.92, 10.92,[  0,  0,  0,  0],0,
+'Boss Added DMG +3000',19.34, 11.72,[  0,  0,  0,  0],0,
+'Boss Amplification +0.2%',20.04, 11.65,[  0,  0,  0,  0],0,
+'Normal Added DMG +1%',20.32, 12.34,[  0,  0,  0,  0],0,
+'Normal Added DMG +3000',19.75, 12.66,[  0,  0,  0,  0],0,
+'Defense +200',21.33, 10.07,[  0,  0,  0,  0],0,
+'Defense +200',22.25, 9.944,[  0,  0,  0,  0],0,
+'Defense +1%',22.70, 10.62,[  0,  0,  0,  0],0,
+'Defense +200',22.41, 11.29,[  0,  0,  0,  0],0,
+'Awaken Stone Slot (Connected to 160)',21.58, 11.42,[  0,  0,  0,  0],0,
+'Defense +200',21.08, 10.78,[  0,  0,  0,  0],0,
+'Defense +200',22.94, 12.20,[  0,  0,  0,  0],0,
+'Defense +500',23.44, 13.09,[  0,  0,  0,  0],0,
+'Strength/Magic +2000',23.44, 11.28,[  0,  0,  0,  0],0,
+'Basic Stat +1%',23.44, 10.08,[  0,  0,  0,  0],0,
+'Increase Movement Speed by 50% for 60s (1% chance when hit)',5.722, 1.746,[  0,  0,  0,  0],0,
+'Basic Stat +1000',5.655, 2.847,[  0,  0,  0,  0],0,
+'Basic Stat +1000',4.821, 1.997,[  0,  0,  0,  0],0,
+'Basic Stat +1% Strength/Magic +1%',4.037, 2.847,[  0,  0,  0,  0],0,
+'Strength/Magic +2000',4.788, 3.681,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',6.022, 4.682,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',5.389, 4.682,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',4.721, 4.682,[  0,  0,  0,  0],0,
+'Conversion to HP based on Ascension Lv ( x * 5)',3.871, 4.682,[  0,  0,  0,  0],0,
+'Max DMG +8%',5.525, 5.923,[  0,  0,  0,  0],0,
+'Max DMG +16%',4.860, 5.584,[  0,  0,  0,  0],0,
+'Max DMG +8%',4.221, 5.897,[  0,  0,  0,  0],0,
+'Min DMG +8%',4.221, 6.914,[  0,  0,  0,  0],0,
+'Min DMG +16%',4.847, 7.188,[  0,  0,  0,  0],0,
+'Min DMG +8%',5.525, 6.914,[  0,  0,  0,  0],0,
+'Movement Speed +10',5.000, 10.00,[  0,  0,  0,  0],0,
+'Movement Speed +10',4.204, 9.787,[  0,  0,  0,  0],0,
+'Movement Speed +10',4.271, 10.65,[  0,  0,  0,  0],0,
+'Enemies with less than 30% HP hit by a strong additional hit 10 times (5% Chance)',24.27, 1.746,[  0,  0,  0,  0],0,
+'Maximum HP +1000',24.15, 2.847,[  0,  0,  0,  0],0,
+'Maximum HP +1000',24.79, 2.847,[  0,  0,  0,  0],0,
+'Maximum HP +2000',25.85, 2.025,[  0,  0,  0,  0],0,
+'Maximum HP +2000',25.85, 2.847,[  0,  0,  0,  0],0,
+'Maximum HP +2000',25.86, 3.710,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',23.99, 4.682,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',24.62, 4.682,[  0,  0,  0,  0],0,
+'Back Attack DMG +10%',25.24, 4.682,[  0,  0,  0,  0],0,
+'Attacking enemies with less than <50% HP grants CDR +20% Crit Rate +5% Movement Speed +50 (30s)',26.07, 4.682,[  0,  0,  0,  0],0,
+'Crit DMG +4%',24.47, 5.889,[  0,  0,  0,  0],0,
+'Crit Rate +1%',25.14, 5.583,[  0,  0,  0,  0],0,
+'Crit DMG +4%',25.77, 5.922,[  0,  0,  0,  0],0,
+'Defense Pen +3%',25.75, 6.891,[  0,  0,  0,  0],0,
+'Defense Pen +6%',25.11, 7.206,[  0,  0,  0,  0],0,
+'Defense Pen 3%',24.48, 6.914,[  0,  0,  0,  0],0,
+'CDR +2.0%',24.22, 10.08,[  0,  0,  0,  0],0,
+'CDR +2.0%',24.99, 9.605,[  0,  0,  0,  0],0,
+'CDR +2.0%',25.28, 10.41,[  0,  0,  0,  0],0,
+'Basic Stats +250',3.170, 2.847,[  0,  0,  0,  0],0,
+'Skill DMG +10%',2.486, 2.847,[  0,  0,  0,  0],0,
+'Skill Level +1 (Class skill)',1.552, 2.847,[  0,  0,  0,  0],0,
+'Awaken Class Skill ',0.8211, 3.93,[  0,  0,  0,  0],0,
+'Awaken Class skill ',0.8211, 1.67,[  0,  0,  0,  0],0,
+'Basic Stat +250',3.220, 4.365,[  0,  0,  0,  0],0,
+'Luck +1000',2.536, 4.766,[  0,  0,  0,  0],0,
+'Luck +1000',1.669, 4.732,[  0,  0,  0,  0],0,
+'Conversion to Crit DMG based on Ascension Lv (1% of Asc Lvl)',2.233, 5.792,[  0,  0,  0,  0],0,
+'Basic Stat +250',3.120, 6.434,[  0,  0,  0,  0],0,
+'Min DMG +12%',2.269, 6.951,[  0,  0,  0,  0],0,
+'Movement Speed -20% Normal Amp +2.5%',1.185, 7.001,[  0,  0,  0,  0],0,
+'Min DMG +12%',1.785, 7.835,[  0,  0,  0,  0],0,
+'Basic Stat +250',5.472, 13.62,[  0,  0,  0,  0],0,
+'Static DMG +1%',5.422, 14.40,[  0,  0,  0,  0],0,
+'Static DMG +1%',6.000, 15.00,[  0,  0,  0,  0],0,
+'Increase Target Limit by 1 for all skills (Summons excluded)',5.022, 15.35,[  0,  0,  0,  0],0,
+'Basic Stat +250',4.271, 12.67,[  0,  0,  0,  0],0,
+'Skill DMG +10%',3.720, 13.60,[  0,  0,  0,  0],0,
+'Infinity Skill Lv +1',4.037, 14.69,[  0,  0,  0,  0],0,
+'Shield effect added to Infinity skill (Proportionate to 100% of your Max HP) for 3s',2.870, 14.97,[  0,  0,  0,  0],0,
+'Infinity Skill Lv +1',2.703, 13.87,[  0,  0,  0,  0],0,
+'Basic Stat +250',2.836, 11.72,[  0,  0,  0,  0],0,
+'Maximum HP +2000',2.353, 12.57,[  0,  0,  0,  0],0,
+'Maximum HP +1%',1.902, 13.35,[  0,  0,  0,  0],0,
+'Maximum HP +1%',1.385, 12.62,[  0,  0,  0,  0],0,
+'Increase Target Limit by 1 for all skills (Summons excluded)',2.086, 10.40,[  0,  0,  0,  0],0,
+'Strength/Magic +500',10.24, 13.58,[  0,  0,  0,  0],0,
+'Skill DMG +5%',9.522, 14.12,[  0,  0,  0,  0],0,
+'Skill DMG +5%',8.451, 14.32,[  0,  0,  0,  0],0,
+'Class Skill Target Limit +1',8.443, 15.27,[  0,  0,  0,  0],0,
+'Class Skill gains effect',9.738, 15.27,[  0,  0,  0,  0],0,
+'Strength/Magic +500',12.26, 13.58,[  0,  0,  0,  0],0,
+'Skill DMG +10%',11.86, 14.25,[  0,  0,  0,  0],0,
+'Awakening I Skill Lv +1',11.35, 14.94,[  0,  0,  0,  0],0,
+'Awakening I all attacks are critical hits ',12.35, 15.06,[  0,  0,  0,  0],0,
+'Special class buff effect doubled but 1.5x longer CD',11.75, 12.80,[  0,  0,  0,  0],0,
+'Strength/Magic +500',15.00, 13.58,[  0,  0,  0,  0],0,
+'Legend II Target Limit increased by 1',15.00, 14.24,[  0,  0,  0,  0],0,
+'Legend II Target Limit increased by 1',15.00, 15.00,[  0,  0,  0,  0],0,
+'Legend II applies stun effect for 2s',15.00, 15.83,[  0,  0,  0,  0],0,
+'Strength/Magic +500',17.73, 13.58,[  0,  0,  0,  0],0,
+'Skill DMG +10%',18.13, 14.25,[  0,  0,  0,  0],0,
+'Awakening II Skill Lv +1',18.64, 14.94,[  0,  0,  0,  0],0,
+'Awakening II Skill CD reduced by 50%',17.64, 15.06,[  0,  0,  0,  0],0,
+'Survival Instinct effect doubled but 1.5x longer CD',18.16, 12.84,[  0,  0,  0,  0],0,
+'Strength/Magic +500',19.75, 13.58,[  0,  0,  0,  0],0,
+'Skill DMG +5%',20.47, 14.12,[  0,  0,  0,  0],0,
+'Skill DMG +5%',21.54, 14.32,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',21.55, 15.27,[  0,  0,  0,  0],0,
+'Class Skill gains effect',20.26, 15.27,[  0,  0,  0,  0],0,
+'Stamina +500',24.52, 13.09,[  0,  0,  0,  0],0,
+'Movement Speed +10%',24.50, 14.00,[  0,  0,  0,  0],0,
+'Class Skill gains effect',23.92, 14.72,[  0,  0,  0,  0],0,
+'Special Gauge +1500',24.85, 14.95,[  0,  0,  0,  0],0,
+'Stamina +500',25.31, 11.76,[  0,  0,  0,  0],0,
+'Skill DMG +10%',26.16, 11.72,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',26.65, 12.27,[  0,  0,  0,  0],0,
+'Class skill gains effect',27.23, 11.72,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',26.68, 11.20,[  0,  0,  0,  0],0,
+'Stamina +500',26.06, 10.41,[  0,  0,  0,  0],0,
+'1% chance to gain 250 Special Gauge when attacking.',27.08, 9.816,[  0,  0,  0,  0],0,
+'Confusion Resistance +2.0%',26.06, 9.036,[  0,  0,  0,  0],0,
+'Confusion Resistance +2.0%',25.83, 8.563,[  0,  0,  0,  0],0,
+'Awaken Stone Slot (Connected to 265)',26.55, 8.076,[  0,  0,  0,  0],0,
+'Confusion Resistance +2.0%',26.71, 9.009,[  0,  0,  0,  0],0,
+'Stamina +500',26.81, 6.419,[  0,  0,  0,  0],0,
+'Max DMG +12%',27.79, 6.962,[  0,  0,  0,  0],0,
+'Max DMG +12%',28.18, 7.762,[  0,  0,  0,  0],0,
+'Accuracy -10% Boss Amplifcation +2.5%',28.78, 6.949,[  0,  0,  0,  0],0,
+'Stamina +500',26.81, 4.358,[  0,  0,  0,  0],0,
+'Maximum HP +1000',27.47, 4.711,[  0,  0,  0,  0],0,
+'Maximum HP +1000',28.33, 4.682,[  0,  0,  0,  0],0,
+'Final Min/Max/Crit DMG +1% for 10s when attacking an enemy > 90%HP',27.76, 5.792,[  0,  0,  0,  0],0,
+'Stamina +500',26.81, 2.847,[  0,  0,  0,  0],0,
+'Skill DMG +10%',27.64, 2.847,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',28.18, 3.404,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',28.77, 2.847,[  0,  0,  0,  0],0,
+'Class Skill Lv +1',28.18, 2.274,[  0,  0,  0,  0],0,
+'Awaken Class skill ',29.48, 4.001,[  0,  0,  0,  0],0,
+'Awaken Class skill ',29.43, 1.672,[  0,  0,  0,  0],0,
+'Normal Added Damage +3000 Boss Added Damage +3000',15.00, 4.437,[  0,  0,  0,  0],0
+];
+
+
+
+
+
+
+
+// for para trasladar las coordenadas
+// pero me hace falta un modo para cambiar los circle1,circle2, etc 
+// para hacerlo viable
+
+
+
+let joined = "circle" + "1";			//circulos enumerados circle1-2-3 etc
+
+
+for (let i = 1; i < 284; i++) {
+
+joined = "circle" + i;
+myNodeBig[5*i-4] =       myNodeBig[5*i-4] * 30;
+myNodeBig[5*i-3] = 505 - myNodeBig[5*i-3] * 30;
+
+document.getElementById(joined).setAttribute("cx", myNodeBig[5*i-4]);
+document.getElementById(joined).setAttribute("cy", myNodeBig[5*i-3]);
+}
+
+
+
+
+function displayText(texto) {
+
+
+    document.getElementById('skill-text').firstChild.data = texto;
+}
+
+
+function canClick2(texto2, number2) {
+
+let nodeCheck0;
+let nodeCheck1;
+let nodeCheck2;
+let nodeCheck3;
+
+let nodeAlert;
+
+nodeCheck0 = myNodeBig[5*number2-2][0]; // -2 es la 3ra posición
+nodeCheck1 = myNodeBig[5*number2-2][1]; // ej cuando number2 es 2
+nodeCheck2 = myNodeBig[5*number2-2][2]; // aca se guardan los valores [  1,  3,  3,  3]
+nodeCheck3 = myNodeBig[5*number2-2][3]; // si fuera 3 [  2,  4,  6,  6] y asi en orden
+
+//trasladando datos nuevamente
+
+nodeCheck0 = 5*nodeCheck0-1; 
+nodeCheck1 = 5*nodeCheck1-1; 
+nodeCheck2 = 5*nodeCheck2-1;
+nodeCheck3 = 5*nodeCheck3-1;
+
+
+
+//1 ----------------------------------------------------------------------------------------------
+//1 --0,  0,  0,  0-------------------------------------------------------------------------------
+
+if(document.getElementById(texto2).style.fill == 'red' && number2 == 1){
+
+nodeAlert = [nodeCheck0, nodeCheck1, nodeCheck2, nodeCheck3];
+alert(nodeAlert);
+
+myNodeBig[5*1-1] = 1;
+ document.getElementById(texto2).style.fill='yellow';
+
+
+  return 1; <!-- salida rapida para impedir que se realice el siguiente if instantaneamiente -->
+}
+
+if(document.getElementById(texto2).style.fill == 'yellow' && number2 == 1){
+
+document.getElementById(texto2).style.fill='red';
+myNodeBig[5*1-1] = 0;
+}
+
+//el gran for
+
+
+for (let i = 2; i < 284; i++) {
+
+if(document.getElementById(texto2).style.fill == 'red' && number2 == i){
+
+nodeAlert = [nodeCheck0, nodeCheck1, nodeCheck2, nodeCheck3];
+alert(nodeAlert);
+
+ if( myNodeBig[nodeCheck0] == 1 || myNodeBig[nodeCheck1] == 1 || myNodeBig[nodeCheck2] == 1 || myNodeBig[nodeCheck3] == 1){
+myNodeBig[5*i-1] = 1;
+ document.getElementById(texto2).style.fill='yellow';
+
+ }
+  return 1; <!-- salida rapida para impedir que se realice el siguiente if instantaneamiente -->
+}
+
+if(document.getElementById(texto2).style.fill == 'yellow' && number2 == i){
+
+document.getElementById(texto2).style.fill='red';
+myNodeBig[5*i-1] = 0;
+
+}
+
+
+}
+
+
+//FIN chequeo
+
+
+
+}
+
+
+
+
+
+
+    </script>
+
+</body>
+</html>
